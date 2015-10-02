@@ -1,0 +1,8 @@
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView configureAccelerometer]':
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:18: warning: class 'GameView' does not implement the 'UIAccelerometerDelegate' protocol
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView loadGame]':
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:1799: warning: '-viewController' not found in protocol(s)
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:1799: warning: no '-viewController' method found
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:1799: warning: (Messages without a matching method signature
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:1799: warning: will be assumed to return 'id' and accept
+/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:1799: warning: '...' as arguments.)

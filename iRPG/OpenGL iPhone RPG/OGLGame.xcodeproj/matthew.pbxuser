@@ -1,0 +1,379 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OGLGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{0, 428}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{511, 57}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 576}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{520, 0}";
+			sepNavVisRange = "{0, 520}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPhone RPG */ = {
+		activeExec = 0;
+		executables = (
+			349EBD4C117944FB0091AC77 /* iPhone RPG */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 1560}}";
+			sepNavSelRange = "{2568, 0}";
+			sepNavVisRange = "{1724, 845}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2731, 3666}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{10597, 4133}\";\n                    s = 0;\n                }\n            );\n            r = \"{6422, 8329}\";\n            s = 0;\n        },\n                {\n            r = \"{14891, 437}\";\n            s = 0;\n        },\n                {\n            r = \"{15350, 785}\";\n            s = 0;\n        },\n                {\n            r = \"{26249, 501}\";\n            s = 0;\n        },\n                {\n            r = \"{26774, 397}\";\n            s = 0;\n        },\n                {\n            r = \"{27193, 258}\";\n            s = 0;\n        },\n                {\n            r = \"{27475, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{27609, 24}\";\n            s = 0;\n        },\n                {\n            r = \"{27672, 2719}\";\n            s = 0;\n        },\n                {\n            r = \"{30423, 1970}\";\n            s = 0;\n        },\n                {\n            r = \"{32449, 3017}\";\n            s = 0;\n        },\n                {\n            r = \"{35512, 2406}\";\n            s = 0;\n        },\n                {\n            r = \"{37968, 1360}\";\n            s = 0;\n        },\n                {\n            r = \"{39377, 3}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{39474, 1158}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{40656, 595}\";\n                    s = 0;\n                }\n            );\n            r = \"{39429, 3251}\";\n            s = 0;\n        },\n                {\n            r = \"{42729, 3}\";\n            s = 0;\n        },\n                {\n            r = \"{42781, 3}\";\n            s = 0;\n        },\n                {\n            r = \"{42833, 3}\";\n            s = 0;\n        },\n                {\n            r = \"{42905, 965}\";\n            s = 0;\n        },\n                {\n            r = \"{43936, 857}\";\n            s = 0;\n        },\n                {\n            r = \"{44861, 857}\";\n            s = 0;\n        },\n                {\n            r = \"{45793, 329}\";\n            s = 0;\n        },\n                {\n            r = \"{46176, 368}\";\n            s = 0;\n        },\n                {\n            r = \"{46618, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{47014, 353}\";\n            s = 0;\n        },\n                {\n            r = \"{47388, 605}\";\n            s = 0;\n        },\n                {\n            r = \"{48032, 1469}\";\n            s = 0;\n        },\n                {\n            r = \"{49521, 19}\";\n            s = 0;\n        },\n                {\n            r = \"{49569, 476}\";\n            s = 0;\n        },\n                {\n            r = \"{50372, 442}\";\n            s = 0;\n        },\n                {\n            r = \"{50946, 274}\";\n            s = 0;\n        },\n                {\n            r = \"{51366, 315}\";\n            s = 0;\n        },\n                {\n            r = \"{51735, 674}\";\n            s = 0;\n        },\n                {\n            r = \"{52436, 131}\";\n            s = 0;\n        },\n                {\n            r = \"{52596, 1308}\";\n            s = 0;\n        },\n                {\n            r = \"{53934, 286}\";\n            s = 0;\n        },\n                {\n            r = \"{54243, 33}\";\n            s = 0;\n        },\n                {\n            r = \"{54297, 724}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 55029}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1552, 4589}}";
+			sepNavSelRange = "{14185, 54}";
+			sepNavVisRange = "{13413, 1569}";
+			sepNavWindowFrame = "{{15, 50}, {1425, 828}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 349EBD4C117944FB0091AC77 /* iPhone RPG */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhone RPG */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPhone RPG */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 349EBD5E117944FE0091AC77 /* Code sense */;
+		executables = (
+			349EBD4C117944FB0091AC77 /* iPhone RPG */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					307,
+					20,
+					207,
+					207,
+					135,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					678,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					813,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					503,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309662521;
+			PBXWorkspaceStateSaveDate = 309662521;
+		};
+		perUserProjectItems = {
+			3452F0C91275135100346AEE /* PBXTextBookmark */ = 3452F0C91275135100346AEE /* PBXTextBookmark */;
+			34562A591274E72E00F3631A /* PBXTextBookmark */ = 34562A591274E72E00F3631A /* PBXTextBookmark */;
+			347F9A3811DABCB900E7F7D2 /* PBXTextBookmark */ = 347F9A3811DABCB900E7F7D2 /* PBXTextBookmark */;
+			34ACB21311DA98BA0073E423 /* PBXTextBookmark */ = 34ACB21311DA98BA0073E423 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 349EBD5D117944FE0091AC77 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3452F0C91275135100346AEE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 1265";
+		rLen = 54;
+		rLoc = 50048;
+		rType = 0;
+		vrLen = 15641;
+		vrLoc = 39382;
+	};
+	34562A591274E72E00F3631A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 1265";
+		rLen = 54;
+		rLoc = 50048;
+		rType = 0;
+		vrLen = 15642;
+		vrLoc = 39382;
+	};
+	347F9A3811DABCB900E7F7D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 349EBF9611795DD90091AC77 /* NpcData.h */;
+		name = "NpcData.h: 24";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	349EBD4C117944FB0091AC77 /* iPhone RPG */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "iPhone RPG";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	349EBD5D117944FE0091AC77 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	349EBD5E117944FE0091AC77 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	349EBF9011795DD90091AC77 /* MapData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{365, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	349EBF9111795DD90091AC77 /* MapData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 585}}";
+			sepNavSelRange = "{1235, 0}";
+			sepNavVisRange = "{156, 1080}";
+		};
+	};
+	349EBF9211795DD90091AC77 /* TileData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{644, 0}";
+			sepNavVisRange = "{0, 644}";
+		};
+	};
+	349EBF9311795DD90091AC77 /* TileData.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2547, 477}\";\n            s = 0;\n        },\n                {\n            r = \"{3078, 504}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3590}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 728}}";
+			sepNavSelRange = "{2611, 0}";
+			sepNavVisRange = "{846, 1765}";
+		};
+	};
+	349EBF9411795DD90091AC77 /* WorldNpc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 426}}";
+			sepNavSelRange = "{451, 0}";
+			sepNavVisRange = "{0, 451}";
+		};
+	};
+	349EBF9511795DD90091AC77 /* WorldNpc.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{184, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{295, 813}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1924}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{1070, 0}";
+			sepNavVisRange = "{0, 1070}";
+		};
+	};
+	349EBF9611795DD90091AC77 /* NpcData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 420}}";
+			sepNavSelRange = "{672, 0}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	349EBF9711795DD90091AC77 /* NpcData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 1209}}";
+			sepNavSelRange = "{4240, 0}";
+			sepNavVisRange = "{2567, 1673}";
+		};
+	};
+	349EBF9811795DD90091AC77 /* PlayerData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{625, 0}";
+			sepNavVisRange = "{0, 625}";
+		};
+	};
+	349EBF9911795DD90091AC77 /* PlayerData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 1170}}";
+			sepNavSelRange = "{3763, 0}";
+			sepNavVisRange = "{2260, 1503}";
+		};
+	};
+	349EBF9B11795DD90091AC77 /* Item.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	349EBF9C11795DD90091AC77 /* Item.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{822, 0}";
+			sepNavVisRange = "{0, 822}";
+		};
+	};
+	349EBF9E11795DD90091AC77 /* DamageEffect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 460}}";
+			sepNavSelRange = "{513, 0}";
+			sepNavVisRange = "{0, 513}";
+		};
+	};
+	349EBF9F11795DD90091AC77 /* DamageEffect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 585}}";
+			sepNavSelRange = "{1563, 0}";
+			sepNavVisRange = "{213, 1350}";
+		};
+	};
+	349EBFA711795DF30091AC77 /* Icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 50}, {1425, 828}}";
+		};
+	};
+	34ACB21311DA98BA0073E423 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 349EBF9411795DD90091AC77 /* WorldNpc.h */;
+		name = "WorldNpc.h: 19";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 451;
+		vrLoc = 0;
+	};
+	34F8001811960FD3001502B2 /* Texture2D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1482, 1521}}";
+			sepNavSelRange = "{4845, 0}";
+			sepNavVisRange = "{3572, 1274}";
+		};
+	};
+	34F8001911960FD3001502B2 /* Texture2D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 4004}}";
+			sepNavSelRange = "{10891, 0}";
+			sepNavVisRange = "{9725, 1166}";
+		};
+	};
+	34F8001B11960FDF001502B2 /* Image.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 1508}}";
+			sepNavSelRange = "{4388, 0}";
+			sepNavVisRange = "{2857, 1531}";
+		};
+	};
+	34F8001C11960FDF001502B2 /* Image.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1832, 4277}}";
+			sepNavSelRange = "{8391, 0}";
+			sepNavVisRange = "{7573, 818}";
+		};
+	};
+	34F8001E11960FEF001502B2 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 477}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+}

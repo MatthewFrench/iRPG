@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Avisaria Map Editor' target in the 'Avisaria Map Editor' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

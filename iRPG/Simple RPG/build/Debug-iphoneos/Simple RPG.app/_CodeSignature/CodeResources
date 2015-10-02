@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Icon.png</key>
+		<data>
+		fcEI6SL513aJ1gcVsfBt+Qt37io=
+		</data>
+		<key>Item 0.png</key>
+		<data>
+		bq+wO8XpQD4KL+0NlNK5iTOIgTI=
+		</data>
+		<key>Lightning 1.png</key>
+		<data>
+		x7lphGW2KGhlseccBTFutDmL/G4=
+		</data>
+		<key>Lightning 2.png</key>
+		<data>
+		+zy8TWsQUJ0psB5GqFXcKRg7Z4o=
+		</data>
+		<key>Lightning 3.png</key>
+		<data>
+		mV+ub+wc+LEsKXRsgQXQeTYtUkU=
+		</data>
+		<key>Lightning 4.png</key>
+		<data>
+		J93YZbcixRWwCZFUTrhQNS4NpsE=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		LgLsKUxAtAiEWml5bOI/Vx9MNgs=
+		</data>
+		<key>Map 0.png</key>
+		<data>
+		IVakluBs1/UeIACZB8n9GkA7C9A=
+		</data>
+		<key>Menu Button.png</key>
+		<data>
+		Kp8btHffn00dIoELNJ/auUU7OFM=
+		</data>
+		<key>Npc 0.png</key>
+		<data>
+		jDV6dgBGgp21tZOlfdLqmDjhbVM=
+		</data>
+		<key>Npc 1.png</key>
+		<data>
+		BeMOaO6U5ERoY4H3cPcNib9y/ps=
+		</data>
+		<key>Npc 2.png</key>
+		<data>
+		GkGRRptp+uiwPt+bWX3YAkCKyPc=
+		</data>
+		<key>Npc 3.png</key>
+		<data>
+		oSpZNL6AcCMrB/Eo8RdL9tqKvl4=
+		</data>
+		<key>Npc 4.png</key>
+		<data>
+		EyQBSo6S6KoeAS38sGqQNoCGilg=
+		</data>
+		<key>Npc 5.png</key>
+		<data>
+		wHVXPMVOsmbJ/AYgnYVmVVnF7Ys=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Simple_RPGViewController.nib</key>
+		<data>
+		pRcb/Bdoy8jazUnsz0frAbEIAQQ=
+		</data>
+		<key>background.png</key>
+		<data>
+		h1c9t15xt/w0wkebiGDLhQM9+3w=
+		</data>
+		<key>charactermenu.png</key>
+		<data>
+		K6tos9hh5E0jV5BJpw5ocya9wgU=
+		</data>
+		<key>credits.png</key>
+		<data>
+		OGDGgqiUPg+r0HdyPgCUYSnEu9I=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		y5jKVz5lChAqK/wV9vi3J+bPIts=
+		</data>
+		<key>event 0.png</key>
+		<data>
+		KRIheSEGfdB2brQwfY4uVXpHS3g=
+		</data>
+		<key>event 1.png</key>
+		<data>
+		aW1Bfb9awFeC7Usy6Ys9aJBhwnM=
+		</data>
+		<key>instructions.png</key>
+		<data>
+		tx0ZqBry/8ETkIvuEnW2GOV5smo=
+		</data>
+		<key>mainmenu.png</key>
+		<data>
+		XuQ6nHbNIxPMdsAcVBRKrMLhmvA=
+		</data>
+		<key>old mainmenu.png</key>
+		<data>
+		bH+hG++MItnEwQxW7kzXLESVMQg=
+		</data>
+		<key>options.png</key>
+		<data>
+		HSAzDofEbW2gqWgHuM8ndoY/uRI=
+		</data>
+		<key>savemenu.png</key>
+		<data>
+		CM7r7qFV/eYNsPbShvveMFRhWM4=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2681 @@
+TiRPG Online
+v7
+r0
+t317408722.941748
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist" Resources/Info.plist
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Default.png" Resources/Default.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/fps_images.png" Resources/fps_images.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon.png" Resources/Icon.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon@2x.png" Resources/Icon@2x.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-Small@2x.png" Resources/Icon-Small@2x.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-Small.png" Resources/Icon-Small.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-Small-50.png" Resources/Icon-Small-50.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-72.png" Resources/Icon-72.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/iTunesArtwork" Resources/iTunesArtwork
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/background.png" Resources/background.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/pausebutton.png" Resources/pausebutton.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/hero.png" Resources/hero.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/enemy.png" Resources/enemy.png
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/World Map.tmx" "World Map.tmx"
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Tile Sheet.png" "Tile Sheet.png"
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Item Sheet.png" "Item Sheet.png"
+cCpResource "build/Debug-iphonesimulator/iRPG Online.app/Sprite Sheet.png" "Sprite Sheet.png"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch.gch iRPG_Online_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online"
+cTouch "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D4722A00000000000000110
+t1296507552
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC121DB0000000000002650
+t1287725531
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/inttypes.h
+c000000004CB3E48600000000000027D1
+t1286857862
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stddef.h
+c000000004CB3E4860000000000001404
+t1286857862
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/CCCharacter.h
+c000000004D3AF43100000000000001B0
+t1295709233
+s432
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/CCCharacter.m
+c000000004D3AF4310000000000000122
+t1295709233
+s290
+i"CCCharacter.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GameConfig.h
+c000000004D34D0630000000000000226
+t1295306851
+s550
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GameOver.h
+c000000004D34D91700000000000000FA
+t1295309079
+s250
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GameOver.m
+c000000004D34D91700000000000004AA
+t1295309079
+s1194
+i"GameOver.h"
+i"HelloWorldScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GamePlay.h
+c000000004D3AF352000000000000020D
+t1295709010
+s525
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"CCCharacter.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GamePlay.m
+c000000004D3AF91700000000000018C9
+t1295710487
+s6345
+i"GamePlay.h"
+i"GameOver.h"
+i"PauseScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/HelloWorldScene.h
+c000000004D34D2E0000000000000018F
+t1295307488
+s399
+i"cocos2d.h"
+i"GamePlay.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/HelloWorldScene.m
+c000000004D34D4A800000000000006BB
+t1295307944
+s1723
+i"HelloWorldScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/PauseScene.h
+c000000004D34D507000000000000004C
+t1295308039
+s76
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/PauseScene.m
+c000000004D34D6CD00000000000005A7
+t1295308493
+s1447
+i"PauseScene.h"
+i"HelloWorldScene.h"
+i"GamePlay.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/RootViewController.h
+c000000004D34D06300000000000000EE
+t1295306851
+s238
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/RootViewController.m
+c000000004D34D0630000000000001142
+t1295306851
+s4418
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/iRPG_OnlineAppDelegate.h
+c000000004D34D063000000000000018B
+t1295306851
+s395
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/iRPG_OnlineAppDelegate.m
+c000000004D34D1940000000000001194
+t1295307156
+s4500
+i"cocos2d.h"
+i"iRPG_OnlineAppDelegate.h"
+i"GameConfig.h"
+i"HelloWorldScene.h"
+i"RootViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Item Sheet.png
+c000000004D34E6D90000000000004408
+t1295312601
+s17416
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Default.png
+c000000004D34D06300000000000077AB
+t1295306851
+s30635
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Icon-72.png
+c000000004D34D0630000000000002C96
+t1295306851
+s11414
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Icon-Small-50.png
+c000000004D34D0630000000000001F2B
+t1295306851
+s7979
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Icon-Small.png
+c000000004D34D064000000000000135C
+t1295306852
+s4956
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Icon-Small@2x.png
+c000000004D34D06400000000000024F9
+t1295306852
+s9465
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Icon.png
+c000000004D34D064000000000000246F
+t1295306852
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/Icon@2x.png
+c000000004D34D0640000000000005375
+t1295306852
+s21365
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/background.png
+c000000004D34D460000000000000793D
+t1295307872
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/enemy.png
+c000000004D34D71200000000000022F4
+t1295308562
+s8948
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/fps_images.png
+c000000004D34D064000000000000183B
+t1295306852
+s6203
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/hero.png
+c000000004D34D70A0000000000002200
+t1295308554
+s8704
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/iTunesArtwork
+c000000004D34D064000000000000F21E
+t1295306852
+s61982
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Resources/pausebutton.png
+c000000004D34D6910000000000000C7A
+t1295308433
+s3194
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Sprite Sheet.png
+c000000004D34E6A30000000000008A99
+t1295312547
+s35481
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Tile Sheet.png
+c000000004D34E6500000000000022808
+t1295312464
+s141320
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/World Map.tmx
+c000000004D3B0F500000000000000EC9
+t1295716176
+s3785
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app
+t1295710488
+s748
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM
+t1295710488
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Default.png
+t1295307276
+s30635
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-72.png
+t1295307276
+s11414
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-Small-50.png
+t1295307276
+s7979
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-Small.png
+t1295307276
+s4956
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-Small@2x.png
+t1295307276
+s9465
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon.png
+t1295307276
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon@2x.png
+t1295307276
+s21365
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist
+t1295307276
+s836
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Item Sheet.png
+t1295402948
+s17416
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/PkgInfo
+t1295307276
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Sprite Sheet.png
+t1295402948
+s35481
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Tile Sheet.png
+t1295391151
+s141320
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/World Map.tmx
+t1295402948
+s3697
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/background.png
+t1295307945
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/enemy.png
+t1295308583
+s8948
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/fps_images.png
+t1295307276
+s6203
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/hero.png
+t1295308583
+s8704
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online
+t1295710488
+s1674000
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iTunesArtwork
+t1295307276
+s61982
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/pausebutton.png
+t1295308440
+s3194
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D34D20C00000000003C8238
+t1295307276
+s3965496
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o
+t1295709234
+s12220
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o
+t1295709234
+s14080
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o
+t1295710488
+s68856
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o
+t1295709233
+s15736
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o
+t1295709234
+s16440
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o
+t1295307278
+s43372
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG Online.LinkFileList
+c000000004D3AF20800000000000004B0
+t1295708680
+s1200
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o
+t1295709234
+s59868
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o
+t1295307277
+s3232
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/iRPG_Online_Prefix.pch
+c000000004D34D06400000000000000B9
+t1295306852
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCAction.h
+c000000004D34D064000000000000167A
+t1295306852
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionCamera.h
+c000000004D34D06400000000000009BC
+t1295306852
+s2492
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionEase.h
+c000000004D34D0640000000000001671
+t1295306852
+s5745
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionGrid.h
+c000000004D34D064000000000000148B
+t1295306852
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionGrid3D.h
+c000000004D34D0640000000000001A8A
+t1295306852
+s6794
+i"CCActionGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionInstant.h
+c000000004D34D06400000000000013AA
+t1295306852
+s5034
+i"CCAction.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionInterval.h
+c000000004D34D0640000000000003265
+t1295306852
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionManager.h
+c000000004D34D0640000000000001071
+t1295306852
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D34D0640000000000000644
+t1295306852
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionProgressTimer.h
+c000000004D34D064000000000000088D
+t1295306852
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionTiledGrid.h
+c000000004D34D0640000000000001A15
+t1295306852
+s6677
+i"CCActionGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCActionTween.h
+c000000004D34D0640000000000000931
+t1295306852
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCAnimation.h
+c000000004D34D064000000000000126D
+t1295306852
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCAnimationCache.h
+c000000004D34D06400000000000008DD
+t1295306852
+s2269
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCAtlasNode.h
+c000000004D34D0640000000000000C06
+t1295306852
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCBlockSupport.h
+c000000004D34D064000000000000066F
+t1295306852
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCCamera.h
+c000000004D34D0640000000000000C84
+t1295306852
+s3204
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCCompatibility.h
+c000000004D34D0640000000000003891
+t1295306852
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCConfiguration.h
+c000000004D34D0640000000000000D36
+t1295306852
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCDirector.h
+c000000004D34D06400000000000025C4
+t1295306852
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D34D0640000000000000C32
+t1295306852
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCGrabber.h
+c000000004D34D06400000000000005E4
+t1295306852
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCGrid.h
+c000000004D34D0640000000000000E5A
+t1295306852
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCLabelAtlas.h
+c000000004D34D0640000000000000B24
+t1295306852
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCLabelBMFont.h
+c000000004D34D0640000000000001641
+t1295306852
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCLabelTTF.h
+c000000004D34D0640000000000000A87
+t1295306852
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCLayer.h
+c000000004D34D064000000000000226A
+t1295306852
+s8810
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCMenu.h
+c000000004D34D0640000000000000B85
+t1295306852
+s2949
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCMenuItem.h
+c000000004D34D06400000000000033A8
+t1295306852
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCMotionStreak.h
+c000000004D34D0640000000000000B2A
+t1295306852
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCNode.h
+c000000004D34D0640000000000004485
+t1295306852
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCParallaxNode.h
+c000000004D34D064000000000000075D
+t1295306852
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCParticleExamples.h
+c000000004D34D0640000000000000AD0
+t1295306852
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCParticleSystem.h
+c000000004D34D06400000000000037B8
+t1295306852
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D34D0640000000000000846
+t1295306852
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D34D06400000000000009F8
+t1295306852
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCProgressTimer.h
+c000000004D34D0640000000000000B48
+t1295306852
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCProtocols.h
+c000000004D34D0640000000000000F9A
+t1295306852
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCRenderTexture.h
+c000000004D34D0640000000000000F2A
+t1295306852
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCRibbon.h
+c000000004D34D0640000000000000FCD
+t1295306852
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCScene.h
+c000000004D34D0640000000000000676
+t1295306852
+s1654
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCScheduler.h
+c000000004D34D06400000000000019D7
+t1295306852
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCSprite.h
+c000000004D34D064000000000000345C
+t1295306852
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D34D06400000000000018F8
+t1295306852
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCSpriteFrame.h
+c000000004D34D0640000000000000D5A
+t1295306852
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D34D0640000000000001394
+t1295306852
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCSpriteSheet.h
+c000000004D34D06400000000000009FE
+t1295306852
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTMXLayer.h
+c000000004D34D064000000000000182A
+t1295306852
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D34D06400000000000008D5
+t1295306852
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTMXTiledMap.h
+c000000004D34D06400000000000014D4
+t1295306852
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTMXXMLParser.h
+c000000004D34D06400000000000016B9
+t1295306852
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTexture2D.h
+c000000004D34D0640000000000002C9A
+t1295306852
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTextureAtlas.h
+c000000004D34D064000000000000145B
+t1295306852
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTextureCache.h
+c000000004D34D06400000000000014C2
+t1295306852
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTexturePVR.h
+c000000004D34D0640000000000000FB9
+t1295306852
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTileMapAtlas.h
+c000000004D34D0640000000000000B86
+t1295306852
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTransition.h
+c000000004D34D0640000000000002134
+t1295306852
+s8500
+i"CCScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D34D0640000000000000917
+t1295306852
+s2327
+i"CCTransition.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/CCTransitionRadial.h
+c000000004D34D0640000000000000630
+t1295306852
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/CCGL.h
+c000000004D34D0640000000000000BF8
+t1295306852
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/CCNS.h
+c000000004D34D0640000000000000965
+t1295306852
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D34D0640000000000000CBE
+t1295306852
+s3262
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D34D064000000000000206A
+t1295306852
+s8298
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D34D0640000000000000B8C
+t1295306852
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/Mac/MacWindow.h
+c000000004D34D064000000000000064B
+t1295306852
+s1611
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D34D0640000000000002B53
+t1295306852
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D34D0640000000000000BC3
+t1295306852
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D34D06400000000000010CA
+t1295306852
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D34D0640000000000000D99
+t1295306852
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D34D0640000000000001B69
+t1295306852
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D34D064000000000000083A
+t1295306852
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D34D064000000000000030D
+t1295306852
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/CCArray.h
+c000000004D34D0640000000000000BED
+t1295306852
+s3053
+i"ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/CCFileUtils.h
+c000000004D34D06400000000000007E8
+t1295306852
+s2024
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/CCProfiling.h
+c000000004D34D06400000000000006E9
+t1295306852
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/CGPointExtension.h
+c000000004D34D0640000000000001EAB
+t1295306852
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D34D06400000000000011A7
+t1295306852
+s4519
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/TGAlib.h
+c000000004D34D0640000000000000444
+t1295306852
+s1092
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/ccCArray.h
+c000000004D34D06400000000000030F3
+t1295306852
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/ccUtils.h
+c000000004D34D0640000000000000204
+t1295306852
+s516
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/uthash.h
+c000000004D34D064000000000000FB13
+t1295306852
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/Support/utlist.h
+c000000004D34D0640000000000009091
+t1295306852
+s37009
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/ccConfig.h
+c000000004D34D0640000000000002897
+t1295306852
+s10391
+i<Availability.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/ccMacros.h
+c000000004D34D0640000000000002167
+t1295306852
+s8551
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/Mac/MacWindow.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/ccTypes.h
+c000000004D34D06400000000000016D2
+t1295306852
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/libs/cocos2d/cocos2d.h
+c000000004D34D06400000000000010FF
+t1295306852
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/main.m
+c000000004D34D065000000000000016A
+t1295306853
+s362
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.h
+c000000004D3AF43100000000000001B0
+t1295709233
+s432
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m
+c000000004D3AF4310000000000000122
+t1295709233
+s290
+i"CCCharacter.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameConfig.h
+c000000004D34D0630000000000000226
+t1295306851
+s550
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.h
+c000000004D34D91700000000000000FA
+t1295309079
+s250
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m
+c000000004D34D91700000000000004AA
+t1295309079
+s1194
+i"GameOver.h"
+i"HelloWorldScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.h
+c000000004D3AF352000000000000020D
+t1295709010
+s525
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"CCCharacter.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m
+c000000004D3AF91700000000000018C9
+t1295710487
+s6345
+i"GamePlay.h"
+i"GameOver.h"
+i"PauseScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.h
+c000000004D34D2E0000000000000018F
+t1295307488
+s399
+i"cocos2d.h"
+i"GamePlay.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m
+c000000004D34D4A800000000000006BB
+t1295307944
+s1723
+i"HelloWorldScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.h
+c000000004D34D507000000000000004C
+t1295308039
+s76
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m
+c000000004D34D6CD00000000000005A7
+t1295308493
+s1447
+i"PauseScene.h"
+i"HelloWorldScene.h"
+i"GamePlay.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.h
+c000000004D34D06300000000000000EE
+t1295306851
+s238
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m
+c000000004D34D0630000000000001142
+t1295306851
+s4418
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.h
+c000000004D34D063000000000000018B
+t1295306851
+s395
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m
+c000000004D34D1940000000000001194
+t1295307156
+s4500
+i"cocos2d.h"
+i"iRPG_OnlineAppDelegate.h"
+i"GameConfig.h"
+i"HelloWorldScene.h"
+i"RootViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Item Sheet.png
+c000000004D34E6D90000000000004408
+t1295312601
+s17416
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Default.png
+c000000004D34D06300000000000077AB
+t1295306851
+s30635
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-72.png
+c000000004D34D0630000000000002C96
+t1295306851
+s11414
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small-50.png
+c000000004D34D0630000000000001F2B
+t1295306851
+s7979
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small.png
+c000000004D34D064000000000000135C
+t1295306852
+s4956
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small@2x.png
+c000000004D34D06400000000000024F9
+t1295306852
+s9465
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon.png
+c000000004D34D064000000000000246F
+t1295306852
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon@2x.png
+c000000004D34D0640000000000005375
+t1295306852
+s21365
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/background.png
+c000000004D34D460000000000000793D
+t1295307872
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/enemy.png
+c000000004D34D71200000000000022F4
+t1295308562
+s8948
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/fps_images.png
+c000000004D34D064000000000000183B
+t1295306852
+s6203
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/hero.png
+c000000004D34D70A0000000000002200
+t1295308554
+s8704
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/iTunesArtwork
+c000000004D34D064000000000000F21E
+t1295306852
+s61982
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/pausebutton.png
+c000000004D34D6910000000000000C7A
+t1295308433
+s3194
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/screenshot_01.png
+c000000004D34D460000000000000793D
+t1295307872
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Sprite Sheet.png
+c000000004D34E6A30000000000008A99
+t1295312547
+s35481
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/Tile Sheet.png
+c000000004D34E6500000000000022808
+t1295312464
+s141320
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/World Map.tmx
+c000000004D3B0F500000000000000EC9
+t1295716176
+s3785
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app
+t1295710488
+s748
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM
+t1295710488
+s102
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Default.png
+t1295307276
+s30635
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-72.png
+t1295307276
+s11414
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-Small-50.png
+t1295307276
+s7979
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-Small.png
+t1295307276
+s4956
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon-Small@2x.png
+t1295307276
+s9465
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon.png
+t1295307276
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Icon@2x.png
+t1295307276
+s21365
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist
+t1295307276
+s836
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Item Sheet.png
+t1295402948
+s17416
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/PkgInfo
+t1295307276
+s8
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Sprite Sheet.png
+t1295402948
+s35481
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Tile Sheet.png
+t1295391151
+s141320
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/World Map.tmx
+t1295402948
+s3697
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/background.png
+t1295307945
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/enemy.png
+t1295308583
+s8948
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/fps_images.png
+t1295307276
+s6203
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/hero.png
+t1295308583
+s8704
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online
+t1295710488
+s1674000
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iTunesArtwork
+t1295307276
+s61982
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/pausebutton.png
+t1295308440
+s3194
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/screenshot_01.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D34D20C00000000003C8238
+t1295307276
+s3965496
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o
+t1295709234
+s12220
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o
+t1295709234
+s14080
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o
+t1295710488
+s68856
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o
+t1295709233
+s15736
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o
+t1295709234
+s16440
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o
+t1295307278
+s43372
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG Online.LinkFileList
+c000000004D3AF20800000000000004B0
+t1295708680
+s1200
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o
+t1295709234
+s59868
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o
+t1295307277
+s3232
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/iRPG_Online_Prefix.pch
+c000000004D34D06400000000000000B9
+t1295306852
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCAction.h
+c000000004D34D064000000000000167A
+t1295306852
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionCamera.h
+c000000004D34D06400000000000009BC
+t1295306852
+s2492
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionEase.h
+c000000004D34D0640000000000001671
+t1295306852
+s5745
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionGrid.h
+c000000004D34D064000000000000148B
+t1295306852
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionGrid3D.h
+c000000004D34D0640000000000001A8A
+t1295306852
+s6794
+i"CCActionGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionInstant.h
+c000000004D34D06400000000000013AA
+t1295306852
+s5034
+i"CCAction.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionInterval.h
+c000000004D34D0640000000000003265
+t1295306852
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionManager.h
+c000000004D34D0640000000000001071
+t1295306852
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D34D0640000000000000644
+t1295306852
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionProgressTimer.h
+c000000004D34D064000000000000088D
+t1295306852
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionTiledGrid.h
+c000000004D34D0640000000000001A15
+t1295306852
+s6677
+i"CCActionGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCActionTween.h
+c000000004D34D0640000000000000931
+t1295306852
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCAnimation.h
+c000000004D34D064000000000000126D
+t1295306852
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCAnimationCache.h
+c000000004D34D06400000000000008DD
+t1295306852
+s2269
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCAtlasNode.h
+c000000004D34D0640000000000000C06
+t1295306852
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCBlockSupport.h
+c000000004D34D064000000000000066F
+t1295306852
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCCamera.h
+c000000004D34D0640000000000000C84
+t1295306852
+s3204
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCCompatibility.h
+c000000004D34D0640000000000003891
+t1295306852
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCConfiguration.h
+c000000004D34D0640000000000000D36
+t1295306852
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCDirector.h
+c000000004D34D06400000000000025C4
+t1295306852
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D34D0640000000000000C32
+t1295306852
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCGrabber.h
+c000000004D34D06400000000000005E4
+t1295306852
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCGrid.h
+c000000004D34D0640000000000000E5A
+t1295306852
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCLabelAtlas.h
+c000000004D34D0640000000000000B24
+t1295306852
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCLabelBMFont.h
+c000000004D34D0640000000000001641
+t1295306852
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCLabelTTF.h
+c000000004D34D0640000000000000A87
+t1295306852
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCLayer.h
+c000000004D34D064000000000000226A
+t1295306852
+s8810
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCMenu.h
+c000000004D34D0640000000000000B85
+t1295306852
+s2949
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCMenuItem.h
+c000000004D34D06400000000000033A8
+t1295306852
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCMotionStreak.h
+c000000004D34D0640000000000000B2A
+t1295306852
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCNode.h
+c000000004D34D0640000000000004485
+t1295306852
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCParallaxNode.h
+c000000004D34D064000000000000075D
+t1295306852
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCParticleExamples.h
+c000000004D34D0640000000000000AD0
+t1295306852
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCParticleSystem.h
+c000000004D34D06400000000000037B8
+t1295306852
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D34D0640000000000000846
+t1295306852
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D34D06400000000000009F8
+t1295306852
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCProgressTimer.h
+c000000004D34D0640000000000000B48
+t1295306852
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCProtocols.h
+c000000004D34D0640000000000000F9A
+t1295306852
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCRenderTexture.h
+c000000004D34D0640000000000000F2A
+t1295306852
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCRibbon.h
+c000000004D34D0640000000000000FCD
+t1295306852
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCScene.h
+c000000004D34D0640000000000000676
+t1295306852
+s1654
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCScheduler.h
+c000000004D34D06400000000000019D7
+t1295306852
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCSprite.h
+c000000004D34D064000000000000345C
+t1295306852
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D34D06400000000000018F8
+t1295306852
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCSpriteFrame.h
+c000000004D34D0640000000000000D5A
+t1295306852
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D34D0640000000000001394
+t1295306852
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCSpriteSheet.h
+c000000004D34D06400000000000009FE
+t1295306852
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTMXLayer.h
+c000000004D34D064000000000000182A
+t1295306852
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D34D06400000000000008D5
+t1295306852
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTMXTiledMap.h
+c000000004D34D06400000000000014D4
+t1295306852
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTMXXMLParser.h
+c000000004D34D06400000000000016B9
+t1295306852
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTexture2D.h
+c000000004D34D0640000000000002C9A
+t1295306852
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTextureAtlas.h
+c000000004D34D064000000000000145B
+t1295306852
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTextureCache.h
+c000000004D34D06400000000000014C2
+t1295306852
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTexturePVR.h
+c000000004D34D0640000000000000FB9
+t1295306852
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTileMapAtlas.h
+c000000004D34D0640000000000000B86
+t1295306852
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTransition.h
+c000000004D34D0640000000000002134
+t1295306852
+s8500
+i"CCScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D34D0640000000000000917
+t1295306852
+s2327
+i"CCTransition.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/CCTransitionRadial.h
+c000000004D34D0640000000000000630
+t1295306852
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/CCGL.h
+c000000004D34D0640000000000000BF8
+t1295306852
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/CCNS.h
+c000000004D34D0640000000000000965
+t1295306852
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D34D0640000000000000CBE
+t1295306852
+s3262
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D34D064000000000000206A
+t1295306852
+s8298
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D34D0640000000000000B8C
+t1295306852
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/Mac/MacWindow.h
+c000000004D34D064000000000000064B
+t1295306852
+s1611
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D34D0640000000000002B53
+t1295306852
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D34D0640000000000000BC3
+t1295306852
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D34D06400000000000010CA
+t1295306852
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D34D0640000000000000D99
+t1295306852
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D34D0640000000000001B69
+t1295306852
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D34D064000000000000083A
+t1295306852
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D34D064000000000000030D
+t1295306852
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/CCArray.h
+c000000004D34D0640000000000000BED
+t1295306852
+s3053
+i"ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/CCFileUtils.h
+c000000004D34D06400000000000007E8
+t1295306852
+s2024
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/CCProfiling.h
+c000000004D34D06400000000000006E9
+t1295306852
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/CGPointExtension.h
+c000000004D34D0640000000000001EAB
+t1295306852
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D34D06400000000000011A7
+t1295306852
+s4519
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/TGAlib.h
+c000000004D34D0640000000000000444
+t1295306852
+s1092
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/ccCArray.h
+c000000004D34D06400000000000030F3
+t1295306852
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/ccUtils.h
+c000000004D34D0640000000000000204
+t1295306852
+s516
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/uthash.h
+c000000004D34D064000000000000FB13
+t1295306852
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/Support/utlist.h
+c000000004D34D0640000000000009091
+t1295306852
+s37009
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/ccConfig.h
+c000000004D34D0640000000000002897
+t1295306852
+s10391
+i<Availability.h>
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/ccMacros.h
+c000000004D34D0640000000000002167
+t1295306852
+s8551
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/Mac/MacWindow.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/ccTypes.h
+c000000004D34D06400000000000016D2
+t1295306852
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/libs/cocos2d/cocos2d.h
+c000000004D34D06400000000000010FF
+t1295306852
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/matthew/Desktop/My Code Sources/iRPG Online/main.m
+c000000004D34D065000000000000016A
+t1295306853
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch.gch
+t1295307277
+s11971792
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-fyodzdthmwnhokguilbefsdjxpdw/iRPG_Online_Prefix.pch.gch
+t2
+s0
+
+NResources/Info.plist
+c000000004D34D0640000000000000515
+t1295306852
+s1301
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317408722#317408722#0(0"0(0#1#0"8609196480#0"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/CCCharacter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317402034.275829
+e317402034.398956
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@80"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m317402034#317402034#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m8609267488#2314"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/CCCharacter.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/CCCharacter.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GameOver.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317402034.253919
+e317402034.436204
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m317402034#317402034#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m8624076160#2308"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GameOver.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GameOver.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/GamePlay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317403287.702782
+e317403288.189051
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m317403287#317403288#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m8617769504#2308"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/GamePlay.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/GamePlay.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317402033.692072
+e317402033.921775
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@84"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m317402033#317402033#0(0"0(0#0#76"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m8624312512#2322"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/HelloWorldScene.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/PauseScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317402034.076832
+e317402034.275692
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m317402034#317402034#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m8623890144#2312"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/PauseScene.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/PauseScene.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317000077.821965
+e317000078.015620
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@87"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m317000077#317000078#0(0"0(0#0#79"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m8717506368#2328"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/RootViewController.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/Classes/iRPG_OnlineAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317402033.690469
+e317402034.076699
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@91"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m317402033#317402034#0(0"0(0#0#83"/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m8624585536#2336"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/Classes/iRPG_OnlineAppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG_OnlineAppDelegate.o"0#
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/iRPG Online/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s317000077.517378
+e317000077.594393
+r1
+xCompileC
+xbuild/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Users/matthew/Desktop/My Code Sources/iRPG Online/main.m317000077#317000077#0(0"0(0#0#57"/Users/matthew/Desktop/My Code Sources/iRPG Online/main.m8606930880#2292"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/main.m" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/main.o"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Default.png" Resources/Default.png
+s317000076.678842
+e317000076.742987
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png317000076#317000076#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Default.png8599113856#525"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Default.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-72.png" Resources/Icon-72.png
+s317000076.695330
+e317000076.732346
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@26"Copy Resources/Icon-72.png317000076#317000076#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-72.png8638363296#525"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-72.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-Small-50.png" Resources/Icon-Small-50.png
+s317000076.693112
+e317000076.730139
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@32"Copy Resources/Icon-Small-50.png317000076#317000076#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small-50.png8639494880#531"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small-50.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-Small.png" Resources/Icon-Small.png
+s317000076.690806
+e317000076.734945
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@29"Copy Resources/Icon-Small.png317000076#317000076#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small.png8670648800#528"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon-Small@2x.png" Resources/Icon-Small@2x.png
+s317000076.688704
+e317000076.742731
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@32"Copy Resources/Icon-Small@2x.png317000076#317000076#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small@2x.png8679545248#531"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon-Small@2x.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon.png" Resources/Icon.png
+s317000076.683994
+e317000076.742526
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png317000076#317000076#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon.png8703500096#522"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Icon@2x.png" Resources/Icon@2x.png
+s317000076.687674
+e317000076.735222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@26"Copy Resources/Icon@2x.png317000076#317000076#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon@2x.png8693026080#525"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Icon@2x.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Item Sheet.png" "Item Sheet.png"
+s317095748.805518
+e317095748.865439
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Item Sheet.png
+xItem Sheet.png
+lSLF07#2@19"Copy Item Sheet.png317095748#317095748#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/iRPG Online/Item Sheet.png8620090816#518"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Item Sheet.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Sprite Sheet.png" "Sprite Sheet.png"
+s317095748.816597
+e317095748.865802
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Sprite Sheet.png
+xSprite Sheet.png
+lSLF07#2@21"Copy Sprite Sheet.png317095748#317095748#0(0"0(0#0#67"/Users/matthew/Desktop/My Code Sources/iRPG Online/Sprite Sheet.png8605714912#520"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Sprite Sheet.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/Tile Sheet.png" "Tile Sheet.png"
+s317083951.865804
+e317083951.895411
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/Tile Sheet.png
+xTile Sheet.png
+lSLF07#2@19"Copy Tile Sheet.png317083951#317083951#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/iRPG Online/Tile Sheet.png8605779296#518"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Tile Sheet.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/World Map.tmx" "World Map.tmx"
+s317095748.804187
+e317095748.833832
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/World Map.tmx
+xWorld Map.tmx
+lSLF07#2@18"Copy World Map.tmx317095748#317095748#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/iRPG Online/World Map.tmx8620240832#517"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/World Map.tmx" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/background.png" Resources/background.png
+s317000744.975153
+e317000745.004403
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/background.png
+xResources/background.png
+lSLF07#2@29"Copy Resources/background.png317000744#317000745#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/background.png8666689184#528"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/background.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/enemy.png" Resources/enemy.png
+s317001383.746177
+e317001383.769708
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/enemy.png
+xResources/enemy.png
+lSLF07#2@24"Copy Resources/enemy.png317001383#317001383#0(0"0(0#0#70"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/enemy.png8722368256#523"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/enemy.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/fps_images.png" Resources/fps_images.png
+s317000076.680050
+e317000076.732074
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png317000076#317000076#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/fps_images.png8683050944#528"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/fps_images.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/hero.png" Resources/hero.png
+s317001383.740448
+e317001383.769480
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/hero.png
+xResources/hero.png
+lSLF07#2@23"Copy Resources/hero.png317001383#317001383#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/hero.png8637894752#522"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/hero.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/iTunesArtwork" Resources/iTunesArtwork
+s317000076.699395
+e317000076.744319
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork317000076#317000076#0(0"0(0#0#74"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/iTunesArtwork8625210048#527"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/iTunesArtwork" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/pausebutton.png" Resources/pausebutton.png
+s317001240.780508
+e317001240.790014
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iRPG Online.app/pausebutton.png
+xResources/pausebutton.png
+lSLF07#2@30"Copy Resources/pausebutton.png317001240#317001240#0(0"0(0#0#76"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/pausebutton.png8722216480#529"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/pausebutton.png" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iRPG Online.app/screenshot_01.png" Resources/screenshot_01.png
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM" "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online"
+s317403288.486272
+e317403288.724093
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/iRPG Online.app.dSYM" "build/Debug-iphonesimulator/iRPG Online.app/iRPG Online"317403288#317403288#0(0"0(0#0#106"/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online8603831072#437"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online" normal i386
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online" normal i386
+s317403288.189404
+e317403288.486138
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online
+xnormal
+xi386
+lSLF07#2@111"Link /Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online317403288#317403288#0(0"0(0#0#0"8606163808#1145"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/Objects-normal/i386/iRPG Online.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/iRPG Online"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist" Resources/Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist" Resources/Info.plist
+s317000076.637083
+e317000076.678689
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist317000076#317000076#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/iRPG Online/Resources/Info.plist8599745280#531"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch.gch iRPG_Online_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s317000076.744621
+e317000077.517076
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch.gch
+xiRPG_Online_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@33"Precompile iRPG_Online_Prefix.pch317000076#317000077#0(0"0(0#0#73"/Users/matthew/Desktop/My Code Sources/iRPG Online/iRPG_Online_Prefix.pch8609936288#2166"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/iRPG Online-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/iRPG Online/build/iRPG Online.build/Debug-iphonesimulator/iRPG Online.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/iRPG_Online_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-cdyheyumqxbzcwdmdpkyplcwldiq/iRPG_Online_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iRPG_Online_Prefix-fyodzdthmwnhokguilbefsdjxpdw/iRPG_Online_Prefix.pch.gch iRPG_Online_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"
+s317403288.724209
+e317403288.727767
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app
+lSLF07#2@100"Touch /Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app317403288#317403288#0(0"0(0#0#0"8620118368#310"    cd "/Users/matthew/Desktop/My Code Sources/iRPG Online"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/iRPG Online/build/Debug-iphonesimulator/iRPG Online.app"0#
+

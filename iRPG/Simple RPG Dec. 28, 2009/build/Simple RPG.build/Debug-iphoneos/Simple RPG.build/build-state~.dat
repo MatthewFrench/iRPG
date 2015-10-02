@@ -1,0 +1,212 @@
+TSimple RPG
+v7
+r1
+cCheck dependencies
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Icon.png
+c000000004AD70BBF0000000000001170
+t1255607231
+s4464
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/MainWindow.xib
+c000000004AD65C6A000000000000246F
+t1255562346
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Map 1.png
+c000000004AF82E5A0000000000002684
+t1257778778
+s9860
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Map 2.png
+c000000004AF82ED70000000000004643
+t1257778903
+s17987
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Menu Button.png
+c000000004ADE6BDB0000000000001E54
+t1256090587
+s7764
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Npc 0.png
+c000000004AF823AA00000000000002C9
+t1257776042
+s713
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Npc 1.png
+c000000004AE3947700000000000019FA
+t1256428663
+s6650
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Npc 2.png
+c000000004AF832100000000000001991
+t1257779728
+s6545
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Simple_RPGViewController.xib
+c000000004AD65F520000000000003CD4
+t1255563090
+s15572
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/background.png
+c000000004AE306E30000000000004911
+t1256392419
+s18705
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Icon.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/MainWindow.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Map 1.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Map 2.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Menu Button.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Npc 0.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Npc 1.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Npc 2.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Simple_RPGViewController.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/background.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/credits.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/event.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/instructions.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/mainmenu.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/options.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/credits.png
+c000000004AD91310000000000000DD3D
+t1255740176
+s56637
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/event.png
+c000000004B33C52600000000000076A4
+t1261684006
+s30372
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/instructions.png
+c000000004AD913E4000000000000548B
+t1255740388
+s21643
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/mainmenu.png
+c000000004AE370260000000000003C1F
+t1256419366
+s15391
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/options.png
+c000000004AD91153000000000000486F
+t1255739731
+s18543
+
+NSimple_RPG-Info.plist
+c000000004AD65C6A000000000000038D
+t1255562346
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324768970#324768970#0(183"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1'[BWARN]warning: Build setting "iOS Deployment Target" should not be empty (current IPHONEOS_DEPLOYMENT_TARGET = "").2(4@58"error: There is no SDK with the name or path 'iphoneos3.1'324768970#18446744073709551615#0#0(1@0"0(22@109"warning: Build setting "iOS Deployment Target" should not be empty (current IPHONEOS_DEPLOYMENT_TARGET = "").324768970#18446744073709551615#0#0(1@0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Simple_RPGViewController.xib"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Map 1.png" "Map 1.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Map 2.png" "Map 2.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Menu Button.png" "Menu Button.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Npc 0.png" "Npc 0.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Npc 1.png" "Npc 1.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Npc 2.png" "Npc 2.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/background.png" background.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/credits.png" credits.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/event.png" event.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/instructions.png" instructions.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/mainmenu.png" mainmenu.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/options.png" options.png
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app/Info.plist" Simple_RPG-Info.plist
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphoneos/Simple RPG.app"
+r0
+

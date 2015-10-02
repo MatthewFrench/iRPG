@@ -1,0 +1,10 @@
+/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m: In function '-[WorldView mouseDown:]':
+/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m:26: error: incompatible type for argument 1 of 'mouseDown:'
+/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m: In function '-[WorldView mouseDragged:]':
+/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m:31: error: incompatible type for argument 1 of 'mouseDragged:'
+/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m: In function '-[WorldView mouseUp:]':
+/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m:36: error: incompatible type for argument 1 of 'mouseUp:'
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2

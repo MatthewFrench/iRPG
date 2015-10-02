@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 533}}";
+			sepNavSelRange = "{645, 0}";
+			sepNavVisRange = "{0, 1118}";
+			sepNavWindowFrame = "{{38, 90}, {793, 762}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3103, 243}\";\n            s = 0;\n        },\n                {\n            r = \"{3376, 247}\";\n            s = 0;\n        },\n                {\n            r = \"{3659, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{3699, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{3734, 1}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3914}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {831, 1430}}";
+			sepNavSelRange = "{627, 0}";
+			sepNavVisRange = "{0, 1295}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 34251051127E5CA200350D4B /* Simple ORPG Client */;
+		activeTarget = 8D1107260486CEB800E47090 /* Simple ORPG Client */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Simple ORPG Client */,
+		);
+		codeSenseManager = 34251064127E5CB000350D4B /* Code sense */;
+		executables = (
+			34251051127E5CA200350D4B /* Simple ORPG Client */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					515,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315465558;
+			PBXWorkspaceStateSaveDate = 315465558;
+		};
+		perUserProjectItems = {
+			344EDE5C127F6E0400D2F2B5 /* PBXBookmark */ = 344EDE5C127F6E0400D2F2B5 /* PBXBookmark */;
+			34B862E212B3FF8C00BBDA29 /* PBXTextBookmark */ = 34B862E212B3FF8C00BBDA29 /* PBXTextBookmark */;
+			34B8644C12B41E1F00BBDA29 /* PBXTextBookmark */ = 34B8644C12B41E1F00BBDA29 /* PBXTextBookmark */;
+			34B8644D12B41E1F00BBDA29 /* PBXTextBookmark */ = 34B8644D12B41E1F00BBDA29 /* PBXTextBookmark */;
+			34B8644F12B41E1F00BBDA29 /* PBXTextBookmark */ = 34B8644F12B41E1F00BBDA29 /* PBXTextBookmark */;
+			34F0D8C012CD9F600088AE10 /* PBXTextBookmark */ = 34F0D8C012CD9F600088AE10 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34251063127E5CB000350D4B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	34251051127E5CA200350D4B /* Simple ORPG Client */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Simple ORPG Client";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34251063127E5CB000350D4B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34251064127E5CB000350D4B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	344EDCD0127F5E8900D2F2B5 /* WorldView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 515}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 310}";
+		};
+	};
+	344EDCD1127F5E8900D2F2B5 /* WorldView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 806}}";
+			sepNavSelRange = "{1806, 36}";
+			sepNavVisRange = "{0, 1470}";
+		};
+	};
+	344EDE5C127F6E0400D2F2B5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 344EDCCA127F5E3400D2F2B5 /* room1.gif */;
+	};
+	348EABAF12866F40005A66B2 /* mapGrid.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 585}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{0, 649}";
+			sepNavWindowFrame = "{{15, 111}, {793, 762}}";
+		};
+	};
+	34B862E212B3FF8C00BBDA29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AppDelegate.h */;
+		name = "AppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 0;
+	};
+	34B8644C12B41E1F00BBDA29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 344EDCD0127F5E8900D2F2B5 /* WorldView.h */;
+		name = "WorldView.h: 15";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	34B8644D12B41E1F00BBDA29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 344EDCD1127F5E8900D2F2B5 /* WorldView.m */;
+		name = "WorldView.m: 50";
+		rLen = 36;
+		rLoc = 1806;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 0;
+	};
+	34B8644F12B41E1F00BBDA29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AppDelegate.m */;
+		name = "AppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 839;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 0;
+	};
+	34F0D8C012CD9F600088AE10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AppDelegate.m */;
+		name = "AppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* Simple ORPG Client */ = {
+		activeExec = 0;
+		executables = (
+			34251051127E5CA200350D4B /* Simple ORPG Client */,
+		);
+	};
+}

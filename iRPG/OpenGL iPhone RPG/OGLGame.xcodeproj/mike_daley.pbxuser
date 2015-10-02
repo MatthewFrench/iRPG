@@ -1,0 +1,178 @@
+// !$*UTF8*$!
+{
+	182D63AD0F6C239800BF1C24 /* Texture2D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 4550}}";
+			sepNavSelRange = "{7939, 0}";
+			sepNavVisRange = "{4274, 1345}";
+		};
+	};
+	1870BEBE0F6D16E500A77DBA /* Image.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 4160}}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{2157, 1698}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 665}}";
+			sepNavSelRange = "{419, 0}";
+			sepNavVisRange = "{0, 726}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OGLGame */ = {
+		activeExec = 0;
+		executables = (
+			8FC16D11107CEB8B002B1505 /* OGLGame */,
+		);
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 3055}}";
+			sepNavSelRange = "{2238, 0}";
+			sepNavVisRange = "{1601, 1275}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FC16D11107CEB8B002B1505 /* OGLGame */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OGLGame */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* OGLGame */,
+		);
+		codeSenseManager = 8FC16D2A107CEB92002B1505 /* Code sense */;
+		executables = (
+			8FC16D11107CEB8B002B1505 /* OGLGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287250074;
+			PBXWorkspaceStateSaveDate = 287250074;
+		};
+		perUserProjectItems = {
+			8F3E36FF111F16AB00102676 /* PBXTextBookmark */ = 8F3E36FF111F16AB00102676 /* PBXTextBookmark */;
+			8F3E371A111F172300102676 /* PBXTextBookmark */ = 8F3E371A111F172300102676 /* PBXTextBookmark */;
+			8F3E371C111F172F00102676 /* PBXTextBookmark */ = 8F3E371C111F172F00102676 /* PBXTextBookmark */;
+			8F3E371D111F172F00102676 /* PBXTextBookmark */ = 8F3E371D111F172F00102676 /* PBXTextBookmark */;
+			8F3E371E111F172F00102676 /* PBXTextBookmark */ = 8F3E371E111F172F00102676 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FC16D29107CEB92002B1505 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8F3E36FF111F16AB00102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182D63AD0F6C239800BF1C24 /* Texture2D.m */;
+		name = "Texture2D.m: 226";
+		rLen = 0;
+		rLoc = 7939;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 4274;
+	};
+	8F3E371A111F172300102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1870BEBE0F6D16E500A77DBA /* Image.m */;
+		name = "Image.m: 35";
+		rLen = 0;
+		rLoc = 716;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 2157;
+	};
+	8F3E371C111F172F00102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 82";
+		rLen = 0;
+		rLoc = 2238;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 1601;
+	};
+	8F3E371D111F172F00102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */;
+		name = "OGLGameAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 0;
+	};
+	8F3E371E111F172F00102676 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */;
+		name = "OGLGameAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 0;
+	};
+	8FC16D11107CEB8B002B1505 /* OGLGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OGLGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8FC16D29107CEB92002B1505 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FC16D2A107CEB92002B1505 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

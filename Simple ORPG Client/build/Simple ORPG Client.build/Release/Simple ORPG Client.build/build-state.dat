@@ -1,0 +1,753 @@
+TSimple ORPG Client
+v7
+r0
+t313786830.376327
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist" Simple_ORPG_Client-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/MainMenu.xib"
+cCpResource "build/Release/Simple ORPG Client.app/Contents/Resources/room1.gif" room1.gif
+cCpResource "build/Release/Simple ORPG Client.app/Contents/Resources/humanM1.gif" humanM1.gif
+cCpResource "build/Release/Simple ORPG Client.app/Contents/Resources/mapGrid.txt" mapGrid.txt
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client" normal i386
+cLd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client" normal x86_64
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client" normal ppc
+cCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client"
+cTouch "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004AD870D50000000000000124
+t1255698645
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004CAA740500000000000036E0
+t1286239237
+s14048
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/AppDelegate.h
+c000000004CD63100000000000000045E
+t1289105664
+s1118
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+i"WorldView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/AppDelegate.m
+c000000004D03CA610000000000000F4A
+t1292094049
+s3914
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/English.lproj/InfoPlist.strings
+c000000004CCE2522000000000000002D
+t1288578338
+s45
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/English.lproj/MainMenu.xib
+c000000004CCF333E000000000003046D
+t1288647486
+s197741
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch
+c000000004CCE252200000000000000A7
+t1288578338
+s167
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/WorldView.h
+c000000004CCF31260000000000000136
+t1288646950
+s310
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/WorldView.m
+c000000004CD6314900000000000007A6
+t1289105737
+s1958
+i"WorldView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app
+t1292094030
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM
+t1292094030
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist
+t1289104763
+s919
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client
+t1292094030
+s82404
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/PkgInfo
+t1289104763
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1289104763
+s92
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1289104763
+s35955
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/humanM1.gif
+t1289104763
+s441
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/mapGrid.txt
+t1289108042
+s649
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/room1.gif
+t1289104763
+s325617
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o
+t1292094029
+s29060
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client
+t1292094029
+s25300
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client.LinkFileList
+c000000004CD62D7B00000000000001CB
+t1289104763
+s459
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o
+t1292090721
+s22108
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o
+t1292090720
+s4880
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o
+t1292094030
+s30120
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client
+t1292094030
+s25060
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client.LinkFileList
+c000000004CD62D7B00000000000001C8
+t1289104763
+s456
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o
+t1292090721
+s23276
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o
+t1292090721
+s4912
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o
+t1292094029
+s41392
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client
+t1292094029
+s23888
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client.LinkFileList
+c000000004CD62D7B00000000000001D1
+t1289104763
+s465
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o
+t1292090720
+s28204
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o
+t1292090719
+s5080
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/humanM1.gif
+c000000004B16712C00000000000001B9
+t1259761964
+s441
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/main.m
+c000000004CCE2522000000000000010B
+t1288578338
+s267
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/mapGrid.txt
+c000000004CD63A490000000000000289
+t1289108041
+s649
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/room1.gif
+c000000004CA3A6B4000000000004F7F1
+t1285793460
+s325617
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.h
+c000000004CD63100000000000000045E
+t1289105664
+s1118
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+i"WorldView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m
+c000000004D03CA610000000000000F4A
+t1292094049
+s3914
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/InfoPlist.strings
+c000000004CCE2522000000000000002D
+t1288578338
+s45
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/MainMenu.xib
+c000000004CCF333E000000000003046D
+t1288647486
+s197741
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch
+c000000004CCE252200000000000000A7
+t1288578338
+s167
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.h
+c000000004CCF31260000000000000136
+t1288646950
+s310
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m
+c000000004CD6314900000000000007A6
+t1289105737
+s1958
+i"WorldView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app
+t1292094030
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM
+t1292094030
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist
+t1289104763
+s919
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client
+t1292094030
+s82404
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/PkgInfo
+t1289104763
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1289104763
+s92
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1289104763
+s35955
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/humanM1.gif
+t1289104763
+s441
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/mapGrid.txt
+t1289108042
+s649
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/room1.gif
+t1289104763
+s325617
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o
+t1292094029
+s29060
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client
+t1292094029
+s25300
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client.LinkFileList
+c000000004CD62D7B00000000000001CB
+t1289104763
+s459
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o
+t1292090721
+s22108
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o
+t1292090720
+s4880
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o
+t1292094030
+s30120
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client
+t1292094030
+s25060
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client.LinkFileList
+c000000004CD62D7B00000000000001C8
+t1289104763
+s456
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o
+t1292090721
+s23276
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o
+t1292090721
+s4912
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o
+t1292094029
+s41392
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client
+t1292094029
+s23888
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client.LinkFileList
+c000000004CD62D7B00000000000001D1
+t1289104763
+s465
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o
+t1292090720
+s28204
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o
+t1292090719
+s5080
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/humanM1.gif
+c000000004B16712C00000000000001B9
+t1259761964
+s441
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m
+c000000004CCE2522000000000000010B
+t1288578338
+s267
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/mapGrid.txt
+c000000004CD63A490000000000000289
+t1289108041
+s649
+
+N/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/room1.gif
+c000000004CA3A6B4000000000004F7F1
+t1285793460
+s325617
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch.gch
+t1292090715
+s55559984
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjmkasiaeckhxgbfvspgmugdynvj/Simple_ORPG_Client_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-ckxtzbaafzbtwnghehrggqzemtnj/Simple_ORPG_Client_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-eardidrfjxskvqeiramlptxwqbwy/Simple_ORPG_Client_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch.gch
+t1292090719
+s52794960
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch.gch
+t1292090715
+s52922128
+
+NSimple_ORPG_Client-Info.plist
+c000000004CCE252200000000000003EA
+t1288578338
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313786828#313786828#0(0"0(0#1#0"8628957600#0"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s313786829.048037
+e313786829.541140
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m313786829#313786829#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m8621889856#1945"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/WorldView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s313783520.757025
+e313783521.147591
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m313783520#313783521#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m8601006432#1941"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/WorldView.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s313783520.537615
+e313783520.756888
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m313783520#313783520#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m8606204640#1931"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/AppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s313786829.721252
+e313786830.149353
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m313786829#313786830#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m8621916320#1952"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/AppDelegate.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/WorldView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s313783521.425013
+e313783521.807037
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m313783521#313783521#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m8600682432#1948"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/WorldView.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s313783521.148003
+e313783521.390518
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m313783521#313783521#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m8599528704#1938"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313786828.073238
+e313786829.560483
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m313786828#313786829#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m8624449024#1951"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313783519.876528
+e313783520.539157
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m313783519#313783520#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m8600280960#1947"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/WorldView.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/WorldView.o"0#
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313783519.549834
+e313783519.876395
+r1
+xCompileC
+xbuild/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m313783519#313783519#0(0"0(0#0#64"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m8603990464#1937"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/main.m" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/MainMenu.xib"
+s310797563.095140
+e310797563.675265
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib310797563#310797563#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/MainMenu.xib8603482208#440"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s310797563.093544
+e310797563.437885
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings310797563#310797563#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/English.lproj/InfoPlist.strings8604048384#420"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Release/Simple ORPG Client.app/Contents/Resources/humanM1.gif" humanM1.gif
+s310797563.439239
+e310797563.481887
+r1
+xCpResource
+xbuild/Release/Simple ORPG Client.app/Contents/Resources/humanM1.gif
+xhumanM1.gif
+lSLF07#2@16"Copy humanM1.gif310797563#310797563#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/humanM1.gif8603959968#424"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/humanM1.gif" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources"0#
+
+CCpResource "build/Release/Simple ORPG Client.app/Contents/Resources/mapGrid.txt" mapGrid.txt
+s310800842.038708
+e310800842.070759
+r1
+xCpResource
+xbuild/Release/Simple ORPG Client.app/Contents/Resources/mapGrid.txt
+xmapGrid.txt
+lSLF07#2@16"Copy mapGrid.txt310800842#310800842#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/mapGrid.txt8611776416#424"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/mapGrid.txt" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources"0#
+
+CCpResource "build/Release/Simple ORPG Client.app/Contents/Resources/room1.gif" room1.gif
+s310797563.437996
+e310797563.497303
+r1
+xCpResource
+xbuild/Release/Simple ORPG Client.app/Contents/Resources/room1.gif
+xroom1.gif
+lSLF07#2@14"Copy room1.gif310797563#310797563#0(0"0(0#0#67"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/room1.gif8604151424#422"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/room1.gif" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client" normal "x86_64 i386 ppc"
+r0
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client" normal "x86_64 i386 ppc"
+s313786830.193762
+e313786830.217775
+r1
+xCreateUniversalBinary
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@119"CreateUniversalBinary "build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client" normal "x86_64 i386 ppc"313786830#313786830#0(0"0(0#0#73"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/x86_64 i386 ppc8624802080#722"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /usr/bin/lipo -create "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client" -output "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client"
+s313786830.217902
+e313786830.361809
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client
+lSLF07#2@133"GenerateDSYMFile "build/Release/Simple ORPG Client.app.dSYM" "build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client"313786830#313786830#0(0"0(0#0#128"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client8624048288#335"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/MacOS/Simple ORPG Client" -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client" normal i386
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client" normal ppc
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client" normal x86_64
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client" normal i386
+s313786829.541411
+e313786829.720845
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client
+xnormal
+xi386
+lSLF07#2@165"Link /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client313786829#313786829#0(0"0(0#0#0"8624312896#756"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" -filelist "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/i386/Simple ORPG Client"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client" normal ppc
+s313786830.149471
+e313786830.193630
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client
+xnormal
+xppc
+lSLF07#2@164"Link /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client313786830#313786830#0(0"0(0#0#0"8627631104#753"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" -filelist "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/ppc/Simple ORPG Client"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client" normal x86_64
+s313786829.560606
+e313786829.726332
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client
+xnormal
+xx86_64
+lSLF07#2@167"Link /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client313786829#313786829#0(0"0(0#0#0"8623280576#762"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" -filelist "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Objects-normal/x86_64/Simple ORPG Client"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist" Simple_ORPG_Client-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist" Simple_ORPG_Client-Info.plist
+s310797563.032542
+e310797563.093404
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist
+xSimple_ORPG_Client-Info.plist
+lSLF07#2@37"Process Simple_ORPG_Client-Info.plist310797563#310797563#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client-Info.plist5787775471683661824#410"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    builtin-infoPlistUtility Simple_ORPG_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313783507.939157
+e313783515.872988
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch.gch
+xSimple_ORPG_Client_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Simple_ORPG_Client_Prefix.pch313783507#313783515#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch8600291520#1805"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjkkeyeryvyozmdzdemxrihrduvi/Simple_ORPG_Client_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-cjmkasiaeckhxgbfvspgmugdynvj/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-ckxtzbaafzbtwnghehrggqzemtnj/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-eardidrfjxskvqeiramlptxwqbwy/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s313783515.342231
+e313783519.549589
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch.gch
+xSimple_ORPG_Client_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Simple_ORPG_Client_Prefix.pch313783515#313783519#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch8603379840#1813"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-figybpxmboikpedbnphsgsxuiojh/Simple_ORPG_Client_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch.gch Simple_ORPG_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313783507.927211
+e313783515.341950
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch.gch
+xSimple_ORPG_Client_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Simple_ORPG_Client_Prefix.pch313783507#313783515#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch5787775742266601472#1809"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/Simple ORPG Client-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Simple ORPG Client.build/Release/Simple ORPG Client.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/Simple_ORPG_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_ORPG_Client_Prefix-fjsctgymkkptgkbevuubedhkldfk/Simple_ORPG_Client_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/Simple ORPG Client/build/Release/Simple ORPG Client.app"
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app"
+s313786830.361927
+e313786830.376265
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app
+lSLF07#2@100"Touch /Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app313786830#313786830#0(0"0(0#0#0"8623279584#186"    cd "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Simple ORPG Client/build/Release/Simple ORPG Client.app"0#
+

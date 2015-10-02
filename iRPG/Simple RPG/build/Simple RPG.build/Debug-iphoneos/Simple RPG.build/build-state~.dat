@@ -1,0 +1,344 @@
+TSimple RPG
+v7
+r1
+cCheck dependencies
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Icon.png
+c000000004B3A68B00000000000001170
+t1262119088
+s4464
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Item 0.png
+c000000004B3A68B00000000000001816
+t1262119088
+s6166
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Lightning/Lightning 1.png
+c000000004B7170200000000000001A8D
+t1265725472
+s6797
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Lightning/Lightning 2.png
+c000000004B71702F000000000000180E
+t1265725487
+s6158
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Lightning/Lightning 3.png
+c000000004B717051000000000000115C
+t1265725521
+s4444
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Lightning/Lightning 4.png
+c000000004B71705F0000000000001239
+t1265725535
+s4665
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib
+c000000004B619C7D000000000000494E
+t1264688253
+s18766
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 0.png
+c000000004B68E7D300000000000143DF
+t1265166291
+s82911
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Menu Button.png
+c000000004B4569E60000000000001E54
+t1262840294
+s7764
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 0.png
+c000000004B4569E600000000000002C9
+t1262840294
+s713
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 1.png
+c000000004B4569E600000000000019FA
+t1262840294
+s6650
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 2.png
+c000000004B4569E60000000000001991
+t1262840294
+s6545
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 3.png
+c000000004B6988DF0000000000000435
+t1265207519
+s1077
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 4.png
+c000000004B69891A00000000000002A8
+t1265207578
+s680
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 5.png
+c000000004B6989680000000000000341
+t1265207656
+s833
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib
+c000000004B4569E60000000000003CD4
+t1262840294
+s15572
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/background.png
+c000000004B3A68B00000000000004911
+t1262119088
+s18705
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Icon.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Item 0.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 1.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 2.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 3.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 4.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/MainWindow.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Map 0.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Menu Button.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 0.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 1.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 2.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 3.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 4.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 5.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Simple_RPGViewController.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/background.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/charactermenu.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/credits.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/event 0.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/event 1.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/instructions.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/mainmenu.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/old mainmenu.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/options.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/savemenu.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/charactermenu.png
+c000000004B675B9F000000000000EC7B
+t1265064863
+s60539
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/credits.png
+c000000004B4569E6000000000000DD3D
+t1262840294
+s56637
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/event 0.png
+c000000004B3A68B000000000000076A4
+t1262119088
+s30372
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/event 1.png
+c000000004B4F2D0400000000000026E7
+t1263480068
+s9959
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/instructions.png
+c000000004B4569E6000000000000548B
+t1262840294
+s21643
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/mainmenu.png
+c000000004B619DFD0000000000003D5A
+t1264688637
+s15706
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/old mainmenu.png
+c000000004B4569E60000000000003C1F
+t1262840294
+s15391
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/options.png
+c000000004B3A68B0000000000000486F
+t1262119088
+s18543
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/savemenu.png
+c000000004B682433000000000000A246
+t1265116211
+s41542
+
+NSimple_RPG-Info.plist
+c000000004B4569E6000000000000038D
+t1262840294
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292616592#292616592#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1'1(4@58"error: There is no SDK with the name or path 'iphoneos3.1'292616592#18446744073709551615#0#0(1@0"0(0#1#0"4300739032#0"0#
+
+CCompileXIB "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Item 0.png" "Item 0.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 1.png" "Lightning/Lightning 1.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 2.png" "Lightning/Lightning 2.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 3.png" "Lightning/Lightning 3.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Lightning 4.png" "Lightning/Lightning 4.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Map 0.png" "Map 0.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Menu Button.png" "Menu Button.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 0.png" "Npc 0.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 1.png" "Npc 1.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 2.png" "Npc 2.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 3.png" "Npc 3.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 4.png" "Npc 4.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Npc 5.png" "Npc 5.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/background.png" background.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/charactermenu.png" charactermenu.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/credits.png" credits.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/event 0.png" "event 0.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/event 1.png" "event 1.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/instructions.png" instructions.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/mainmenu.png" mainmenu.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/old mainmenu.png" "old mainmenu.png"
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/options.png" options.png
+r0
+
+CCopyPNGFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/savemenu.png" savemenu.png
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app/Info.plist" Simple_RPG-Info.plist
+r0
+
+CTouch "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphoneos/Simple RPG.app"
+r0
+

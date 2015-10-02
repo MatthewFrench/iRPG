@@ -1,0 +1,1367 @@
+TSimple RPG
+v7
+r0
+t283658481.651803
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Info.plist" Simple_RPG-Info.plist
+cCompileXIB "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib"
+cCompileXIB "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Icon.png" Icon.png
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/options.png" options.png
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/credits.png" credits.png
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/instructions.png" instructions.png
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Menu Button.png" "Menu Button.png"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/background.png" background.png
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/mainmenu.png" mainmenu.png
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npc 1.png" "Npc 1.png"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npc 0.png" "Npc 0.png"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Map 2.png" "Map 2.png"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Map 1.png" "Map 1.png"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npc 2.png" "Npc 2.png"
+cCpResource "build/Debug-iphonesimulator/Simple RPG.app/event.png" event.png
+cProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch.gch Simple_RPG_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app.dSYM" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG"
+cTouch "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"
+
+N/Developer Xcode 3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D4722A00000000000000110
+t1296507552
+s272
+
+N/Developer Xcode 3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer Xcode 3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer Xcode 3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer Xcode 3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer Xcode 3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004ABFD79400000000000000EE
+t1254086548
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/../GameView.m
+c000000004B33C7690000000000008C29
+t1261684585
+s35881
+i"GameView.h"
+i"mapData.h"
+i"tileData.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/../MapData.m
+c000000004B33D06D00000000000000ED
+t1261686893
+s237
+i"MapData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/../TileData.m
+c000000004B33D06D00000000000002FE
+t1261686893
+s766
+i"TileData.h"
+i"MapData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/DamageEffect.h
+c000000004B33CFE0000000000000019D
+t1261686752
+s413
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/DamageEffect.m
+c000000004B33C6B60000000000000199
+t1261684406
+s409
+i"DamageEffect.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/NpcData.h
+c000000004B33D06D000000000000020F
+t1261686893
+s527
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/NpcData.m
+c000000004B33D06D000000000000020E
+t1261686893
+s526
+i"NpcData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/PlayerData.h
+c000000004B33D06D00000000000001EE
+t1261686893
+s494
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/PlayerData.m
+c000000004B33D06D00000000000001E4
+t1261686893
+s484
+i"PlayerData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/Simple_RPGAppDelegate.h
+c000000004B33D06D0000000000000159
+t1261686893
+s345
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/Simple_RPGAppDelegate.m
+c000000004B33D06D0000000000000249
+t1261686893
+s585
+i"Simple_RPGAppDelegate.h"
+i"Simple_RPGViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/Simple_RPGViewController.h
+c000000004B33D06D000000000000005C
+t1261686893
+s92
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/Simple_RPGViewController.m
+c000000004B33D06D0000000000000528
+t1261686893
+s1320
+i"Simple_RPGViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/GameView.h
+c000000004B33D06D00000000000006F7
+t1261686893
+s1783
+i<UIKit/UIKit.h>
+i"MapData.h"
+i"TileData.h"
+i"PlayerData.h"
+i"NpcData.h"
+i"DamageEffect.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Icon.png
+c000000004AD70BBF0000000000001170
+t1255607231
+s4464
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/MainWindow.xib
+c000000004AD65C6A000000000000246F
+t1255562346
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Map 1.png
+c000000004AF82E5A0000000000002684
+t1257778778
+s9860
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Map 2.png
+c000000004AF82ED70000000000004643
+t1257778903
+s17987
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/MapData.h
+c000000004B33D06D000000000000017B
+t1261686893
+s379
+i<Foundation/Foundation.h>
+i"tileData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Menu Button.png
+c000000004ADE6BDB0000000000001E54
+t1256090587
+s7764
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Npc 0.png
+c000000004AF823AA00000000000002C9
+t1257776042
+s713
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Npc 1.png
+c000000004AE3947700000000000019FA
+t1256428663
+s6650
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Npc 2.png
+c000000004AF832100000000000001991
+t1257779728
+s6545
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Simple_RPGViewController.xib
+c000000004AD65F520000000000003CD4
+t1255563090
+s15572
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Simple_RPG_Prefix.pch
+c000000004AD65C6A00000000000000BD
+t1255562346
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/TileData.h
+c000000004B33D06D0000000000000249
+t1261686893
+s585
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/background.png
+c000000004AE306E30000000000004911
+t1256392419
+s18705
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app
+t1261686894
+s680
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app.dSYM
+t1261686894
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Icon.png
+t1261684487
+s4464
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Info.plist
+t1261684487
+s574
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/MainWindow.nib
+t1261684487
+s1110
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Map 1.png
+t1261684488
+s9860
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Map 2.png
+t1261684487
+s17987
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Menu Button.png
+t1261684488
+s7764
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Npc 0.png
+t1261684487
+s713
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Npc 1.png
+t1261684488
+s6650
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Npc 2.png
+t1261684488
+s6545
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/PkgInfo
+t1261684487
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG
+t1261686894
+s79884
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Simple_RPGViewController.nib
+t1261684487
+s903
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/background.png
+t1261684488
+s18705
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/credits.png
+t1261684487
+s56637
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/event.png
+t1261684488
+s30372
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/instructions.png
+t1261684488
+s21643
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/mainmenu.png
+t1261684488
+s15391
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/options.png
+t1261684488
+s18543
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o
+t1261686753
+s12752
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o
+t1261686894
+s87704
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o
+t1261686894
+s10236
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o
+t1261686894
+s18400
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o
+t1261686894
+s18956
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple RPG.LinkFileList
+c000000004B33C7070000000000000548
+t1261684487
+s1352
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o
+t1261686894
+s38420
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o
+t1261686894
+s29996
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o
+t1261686894
+s17956
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o
+t1261684488
+s5972
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/credits.png
+c000000004AD91310000000000000DD3D
+t1255740176
+s56637
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/event.png
+c000000004B33C52600000000000076A4
+t1261684006
+s30372
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/instructions.png
+c000000004AD913E4000000000000548B
+t1255740388
+s21643
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/main.m
+c000000004AE3A8490000000000000168
+t1256433737
+s360
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/mainmenu.png
+c000000004AE370260000000000003C1F
+t1256419366
+s15391
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/options.png
+c000000004AD91153000000000000486F
+t1255739731
+s18543
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m
+c000000004B33C7690000000000008C29
+t1261684585
+s35881
+i"GameView.h"
+i"mapData.h"
+i"tileData.h"
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m
+c000000004B33D06D00000000000000ED
+t1261686893
+s237
+i"MapData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m
+c000000004B33D06D00000000000002FE
+t1261686893
+s766
+i"TileData.h"
+i"MapData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.h
+c000000004B33CFE0000000000000019D
+t1261686752
+s413
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m
+c000000004B33C6B60000000000000199
+t1261684406
+s409
+i"DamageEffect.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.h
+c000000004B33D06D000000000000020F
+t1261686893
+s527
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m
+c000000004B33D06D000000000000020E
+t1261686893
+s526
+i"NpcData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.h
+c000000004B33D06D00000000000001EE
+t1261686893
+s494
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m
+c000000004B33D06D00000000000001E4
+t1261686893
+s484
+i"PlayerData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.h
+c000000004B33D06D0000000000000159
+t1261686893
+s345
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m
+c000000004B33D06D0000000000000249
+t1261686893
+s585
+i"Simple_RPGAppDelegate.h"
+i"Simple_RPGViewController.h"
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.h
+c000000004B33D06D000000000000005C
+t1261686893
+s92
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m
+c000000004B33D06D0000000000000528
+t1261686893
+s1320
+i"Simple_RPGViewController.h"
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/GameView.h
+c000000004B33D06D00000000000006F7
+t1261686893
+s1783
+i<UIKit/UIKit.h>
+i"MapData.h"
+i"TileData.h"
+i"PlayerData.h"
+i"NpcData.h"
+i"DamageEffect.h"
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Icon.png
+c000000004AD70BBF0000000000001170
+t1255607231
+s4464
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib
+c000000004AD65C6A000000000000246F
+t1255562346
+s9327
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 1.png
+c000000004AF82E5A0000000000002684
+t1257778778
+s9860
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 1.txt
+c000000004AF8306D00000000000001C0
+t1257779309
+s448
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 2.png
+c000000004AF82ED70000000000004643
+t1257778903
+s17987
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 2.txt
+c000000004AF8318400000000000001E7
+t1257779588
+s487
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MapData.h
+c000000004B33D06D000000000000017B
+t1261686893
+s379
+i<Foundation/Foundation.h>
+i"tileData.h"
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Menu Button.png
+c000000004ADE6BDB0000000000001E54
+t1256090587
+s7764
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 0.png
+c000000004AF823AA00000000000002C9
+t1257776042
+s713
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 1.png
+c000000004AE3947700000000000019FA
+t1256428663
+s6650
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 2.png
+c000000004AF832100000000000001991
+t1257779728
+s6545
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npcs.txt
+c000000004AF848FA0000000000000035
+t1257785594
+s53
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib
+c000000004AD65F520000000000003CD4
+t1255563090
+s15572
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPG_Prefix.pch
+c000000004AD65C6A00000000000000BD
+t1255562346
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/TileData.h
+c000000004B33D06D0000000000000249
+t1261686893
+s585
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/background.png
+c000000004AE306E30000000000004911
+t1256392419
+s18705
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app
+t1261686894
+s680
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app.dSYM
+t1261686894
+s102
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Icon.png
+t1261684487
+s4464
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Info.plist
+t1261684487
+s574
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/MainWindow.nib
+t1261684487
+s1110
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Map 1.png
+t1261684488
+s9860
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Map 1.txt
+t1257779309
+s448
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Map 2.png
+t1261684487
+s17987
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Map 2.txt
+t1257779588
+s487
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Menu Button.png
+t1261684488
+s7764
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Npc 0.png
+t1261684487
+s713
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Npc 1.png
+t1261684488
+s6650
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Npc 2.png
+t1261684488
+s6545
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Npcs.txt
+t1257785601
+s53
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/PkgInfo
+t1261684487
+s8
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG
+t1261686894
+s79884
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple_RPGViewController.nib
+t1261684487
+s903
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/background.png
+t1261684488
+s18705
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/credits.png
+t1261684487
+s56637
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/event.png
+t1261684488
+s30372
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/humanm1.gif
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/humanm1.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/instructions.png
+t1261684488
+s21643
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/mainmenu.png
+t1261684488
+s15391
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/options.png
+t1261684488
+s18543
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/player.png
+t1257775843
+s6650
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/windowRGBA.png
+t2
+s0
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o
+t1261686753
+s12752
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o
+t1261686894
+s87704
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o
+t1261686894
+s10236
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o
+t1261686894
+s18400
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o
+t1261686894
+s18956
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple RPG.LinkFileList
+c000000004B33C7070000000000000548
+t1261684487
+s1352
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o
+t1261686894
+s38420
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o
+t1261686894
+s29996
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o
+t1261686894
+s17956
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o
+t1261684488
+s5972
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/GameView.plist
+t1261631123
+s54492
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/MapData.plist
+t1260730772
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/NpcData.plist
+t1261631000
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/PlayerData.plist
+t1260730772
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/Simple_RPGAppDelegate.plist
+t1260730771
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/Simple_RPGViewController.plist
+t1260730772
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/TileData.plist
+t1260730772
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/main.plist
+t1260730771
+s275
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/credits.png
+c000000004AD91310000000000000DD3D
+t1255740176
+s56637
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/event.png
+c000000004B33C52600000000000076A4
+t1261684006
+s30372
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/humanm1.gif
+c000000004AF8238C0000000000000151
+t1257776012
+s337
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/humanm1.png
+c000000004AF823AA00000000000002C9
+t1257776042
+s713
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/instructions.png
+c000000004AD913E4000000000000548B
+t1255740388
+s21643
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m
+c000000004AE3A8490000000000000168
+t1256433737
+s360
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/mainmenu.png
+c000000004AE370260000000000003C1F
+t1256419366
+s15391
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/options.png
+c000000004AD91153000000000000486F
+t1255739731
+s18543
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/player.png
+c000000004AE3947700000000000019FA
+t1256428663
+s6650
+
+N/Users/matthew/Desktop/My iPhone Successes/Simple RPG/windowRGBA.png
+c000000004B109A990000000000000BE9
+t1259379353
+s3049
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_RPG_Prefix-gtroengvjstedxarhqortoarwfyg/Simple_RPG_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch.gch
+t1257775590
+s13034960
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch.pth
+t1260730771
+s1727704
+
+NSimple_RPG-Info.plist
+c000000004AD65C6A000000000000038D
+t1255562346
+s909
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m"
+s283323922.803689
+e283323923.298062
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:18:29:{18:31-18:35}: warning: incompatible type assigning 'GameView *', expected 'id<UIAccelerometerDelegate>'
+o                 theAccelerometer.delegate = self;
+o                                           ^ ~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:287:10:{287:21-287:48}: warning: Value stored to 'location' during its initialization is never read
+o         CGPoint location = [touch locationInView:self];
+o                 ^          ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:286:13:{286:24-286:40}: warning: Value stored to 'tapCount' during its initialization is never read
+o         NSUInteger tapCount = [touch tapCount];
+o                    ^          ~~~~~~~~~~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:299:13:{299:24-299:40}: warning: Value stored to 'tapCount' during its initialization is never read
+o         NSUInteger tapCount = [touch tapCount];
+o                    ^          ~~~~~~~~~~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:300:10:{300:21-300:48}: warning: Value stored to 'location' during its initialization is never read
+o         CGPoint location = [touch locationInView:self];
+o                 ^          ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:314:13:{314:24-314:40}: warning: Value stored to 'tapCount' during its initialization is never read
+o         NSUInteger tapCount = [touch tapCount];
+o                    ^          ~~~~~~~~~~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:329:3:{329:19-329:26}: warning: Pass-by-value argument in message expression is undefined
+o                 [self drawImage:context translateX:0 translateY:0 image:interfaceImageObj[currentview] point:CGPointMake(0, 0) rotation:0];
+o                 ^               ~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:327:3:{327:19-327:26}: warning: Pass-by-value argument in message expression is undefined
+o                 [self drawImage:context translateX:320 translateY:0 image:interfaceImageObj[currentview] point:CGPointMake(0, 0) rotation:90 * M_PI / 180];
+o                 ^               ~~~~~~~
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:378:24: warning: Potential leak of an object allocated on line 378 and stored into 'imageFile'
+o                 UIImage* imageFile = [[UIImage alloc] initWithContentsOfFile:filePath];
+o                                      ^
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:388:23: warning: Potential leak of an object allocated on line 388 and stored into 'txtFile'
+o                 NSString* txtFile = [[NSString alloc] initWithContentsOfFile:filePath];
+o                                     ^
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:561:31: warning: Potential leak of an object allocated on line 561 and stored into 'loadTileData'
+o                                         TileData *loadTileData = [[TileData alloc] init];
+o                                                                  ^
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:648:20: warning: Potential leak of an object allocated on line 648 and stored into 'newNpc'
+o         NpcData* newNpc = [[NpcData alloc] init];
+o                           ^
+o12 diagnostics generated.
+lSLF07#2@83"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#283323923#0(3601"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:18:29:{18:31-18:35}: warning: incompatible type assigning 'GameView *', expected 'id<UIAccelerometerDelegate>'                 theAccelerometer.delegate = self;                                           ^ ~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:287:10:{287:21-287:48}: warning: Value stored to 'location' during its initialization is never read         CGPoint location = [touch locationInView:self];                 ^          ~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:286:13:{286:24-286:40}: warning: Value stored to 'tapCount' during its initialization is never read         NSUInteger tapCount = [touch tapCount];                    ^          ~~~~~~~~~~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:299:13:{299:24-299:40}: warning: Value stored to 'tapCount' during its initialization is never read         NSUInteger tapCount = [touch tapCount];                    ^          ~~~~~~~~~~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:300:10:{300:21-300:48}: warning: Value stored to 'location' during its initialization is never read         CGPoint location = [touch locationInView:self];                 ^          ~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:314:13:{314:24-314:40}: warning: Value stored to 'tapCount' during its initialization is never read         NSUInteger tapCount = [touch tapCount];                    ^          ~~~~~~~~~~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:329:3:{329:19-329:26}: warning: Pass-by-value argument in message expression is undefined                 [self drawImage:context translateX:0 translateY:0 image:interfaceImageObj[currentview] point:CGPointMake(0, 0) rotation:0];                 ^               ~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:327:3:{327:19-327:26}: warning: Pass-by-value argument in message expression is undefined                 [self drawImage:context translateX:320 translateY:0 image:interfaceImageObj[currentview] point:CGPointMake(0, 0) rotation:90 * M_PI / 180];                 ^               ~~~~~~~/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:378:24: warning: Potential leak of an object allocated on line 378 and stored into 'imageFile'                 UIImage* imageFile = [[UIImage alloc] initWithContentsOfFile:filePath];                                      ^/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:388:23: warning: Potential leak of an object allocated on line 388 and stored into 'txtFile'                 NSString* txtFile = [[NSString alloc] initWithContentsOfFile:filePath];                                     ^/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:561:31: warning: Potential leak of an object allocated on line 561 and stored into 'loadTileData'                                         TileData *loadTileData = [[TileData alloc] init];                                                                  ^/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:648:20: warning: Potential leak of an object allocated on line 648 and stored into 'newNpc'         NpcData* newNpc = [[NpcData alloc] init];                           ^12 diagnostics generated.11(0@66"Value stored to 'location' during its initialization is never read283323923#18446744073709551615#0#1(21@66"Value stored to 'location' during its initialization is never read283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#287#10#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#287#21#287#47#66"Value stored to 'location' during its initialization is never read6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#287#10#0#0#10"Dead store0(19"Dead initialization0@66"Value stored to 'tapCount' during its initialization is never read283323923#18446744073709551615#0#1(21@66"Value stored to 'tapCount' during its initialization is never read283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#286#13#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#286#24#286#39#66"Value stored to 'tapCount' during its initialization is never read6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#286#13#0#0#10"Dead store0(19"Dead initialization0@66"Value stored to 'tapCount' during its initialization is never read283323923#18446744073709551615#0#1(21@66"Value stored to 'tapCount' during its initialization is never read283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#299#13#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#299#24#299#39#66"Value stored to 'tapCount' during its initialization is never read6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#299#13#0#0#10"Dead store0(19"Dead initialization0@66"Value stored to 'location' during its initialization is never read283323923#18446744073709551615#0#1(21@66"Value stored to 'location' during its initialization is never read283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#300#10#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#300#21#300#47#66"Value stored to 'location' during its initialization is never read6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#300#10#0#0#10"Dead store0(19"Dead initialization0@66"Value stored to 'tapCount' during its initialization is never read283323923#18446744073709551615#0#1(21@66"Value stored to 'tapCount' during its initialization is never read283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#314#13#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#314#24#314#39#66"Value stored to 'tapCount' during its initialization is never read6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#314#13#0#0#10"Dead store0(19"Dead initialization0@57"Pass-by-value argument in message expression is undefined283323923#18446744073709551615#0#4(21@52"Variable 'context' declared without an initial value283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#324#2#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#324#2#324#21#52"Variable 'context' declared without an initial value17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#324#2#324#21#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#326#2#326#2#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#326#2#326#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#329#3#329#124#21@57"Pass-by-value argument in message expression is undefined283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#329#3#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#329#19#329#25#57"Pass-by-value argument in message expression is undefined6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#329#3#0#0#12"Logic errors0(22"Uninitialized argument0@57"Pass-by-value argument in message expression is undefined283323923#18446744073709551615#0#4(21@52"Variable 'context' declared without an initial value283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#324#2#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#324#2#324#21#52"Variable 'context' declared without an initial value17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#324#2#324#21#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#326#2#326#2#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#326#2#326#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#327#3#327#140#21@57"Pass-by-value argument in message expression is undefined283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#327#3#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#327#19#327#25#57"Pass-by-value argument in message expression is undefined6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#327#3#0#0#12"Logic errors0(22"Uninitialized argument0@77"Potential leak of an object allocated on line 378 and stored into 'imageFile'283323923#18446744073709551615#0#7(17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#375#2#375#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#377#2#377#2#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#377#2#377#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#378#3#378#3#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#378#3#378#3#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#378#24#378#72#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#378#24#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#378#24#378#72#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#378#24#378#72#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#3#379#8#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#3#0#0#0"2(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#3#379#18#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#10#379#18#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@286"Object allocated on line 378 and stored into 'imageFile' is returned from a method whose name ('loadImage:type:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#3#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#3#379#8#286"Object allocated on line 378 and stored into 'imageFile' is returned from a method whose name ('loadImage:type:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#379#3#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0@75"Potential leak of an object allocated on line 388 and stored into 'txtFile'283323923#18446744073709551615#0#7(17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#385#2#385#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#387#2#387#2#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#387#2#387#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#388#3#388#3#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#388#3#388#3#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#388#23#388#72#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#388#23#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#388#23#388#72#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#388#23#388#72#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#3#389#8#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#3#0#0#0"2(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#3#389#16#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#10#389#16#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@283"Object allocated on line 388 and stored into 'txtFile' is returned from a method whose name ('loadText:type:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#3#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#3#389#8#283"Object allocated on line 388 and stored into 'txtFile' is returned from a method whose name ('loadText:type:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#389#3#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0@80"Potential leak of an object allocated on line 561 and stored into 'loadTileData'283323923#18446744073709551615#0#15(17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#547#2#547#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#549#2#549#2#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#549#2#549#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#550#3#550#3#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#550#3#550#3#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#551#3#551#3#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#551#3#551#3#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#553#4#553#4#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#553#4#553#4#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#557#4#557#4#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#557#4#557#4#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#558#5#558#5#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#558#5#558#5#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#5#560#5#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#5#560#5#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#561#6#561#6#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#561#6#561#6#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#561#31#561#53#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#561#31#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#561#31#561#53#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#561#31#561#53#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#563#5#563#5#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#563#5#563#5#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#5#560#7#21@36"Looping back to the head of the loop283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#5#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#5#560#7#36"Looping back to the head of the loop17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#5#560#7#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#26#560#26#21@145"Object allocated on line 561 and stored into 'loadTileData' is no longer referenced after this point and has a retain count of +1 (object leaked)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#26#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#26#560#26#145"Object allocated on line 561 and stored into 'loadTileData' is no longer referenced after this point and has a retain count of +1 (object leaked)6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#560#26#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@74"Potential leak of an object allocated on line 648 and stored into 'newNpc'283323923#18446744073709551615#0#7(17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#648#2#648#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#648#20#648#41#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#648#20#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#648#20#648#41#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#648#20#648#41#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#649#2#649#2#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#649#2#649#2#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#666#9#666#9#17@0"283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#0"0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#0#0#0#0#1(3@6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#666#9#666#9#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#2#681#7#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#2#0#0#0"2(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#2#681#14#6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#9#681#14#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@287"Object allocated on line 648 and stored into 'newNpc' is returned from a method whose name ('loadnpcs:xpos:ypos:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)283323923#18446744073709551615#0#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#2#0#0#0"1(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#2#681#7#287"Object allocated on line 648 and stored into 'newNpc' is returned from a method whose name ('loadnpcs:xpos:ypos:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283323922#681#2#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0#0#75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m4300882208#2132"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/GameView.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m"
+s282423572.040777
+e282423572.092143
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m
+lSLF07#2@82"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m282423572#282423572#0(0"0(0#0#74"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m4300882208#2130"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/MapData.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m"
+s282423572.088119
+e282423572.152451
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m
+lSLF07#2@83"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m282423572#282423572#0(0"0(0#0#75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m4300882208#2132"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/TileData.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m"
+s283323799.801683
+e283323800.038427
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m
+lSLF07#2@79"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m283323799#283323800#0(0"0(0#0#71"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m4300882208#2127"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/NpcData.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m"
+s282423572.093023
+e282423572.134903
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m
+lSLF07#2@82"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m282423572#282423572#0(0"0(0#0#74"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m4300882208#2133"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/PlayerData.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m"
+s282423571.809765
+e282423571.917247
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m
+lSLF07#2@93"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m282423571#282423571#0(0"0(0#0#85"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m4300882208#2155"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/Simple_RPGAppDelegate.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m"
+s282423571.917597
+e282423572.040657
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m
+lSLF07#2@96"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m282423571#282423572#0(0"0(0#0#88"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m4300882208#2161"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/Simple_RPGViewController.plist"0#
+
+CAnalyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m"
+s282423571.808159
+e282423571.931192
+r1
+xAnalyze
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m
+lSLF07#2@68"Analyze /Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m282423571#282423571#0(0"0(0#0#60"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m4300882208#2113"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch --analyze "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies283658481#283658481#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/DamageEffect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379553.136203
+e283379553.269374
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m283379553#283379553#0(0"0(0#0#76"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m4300882208#2128"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/DamageEffect.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/DamageEffect.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/../GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379694.119457
+e283379694.812218
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView configureAccelerometer]':
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:18: warning: class 'GameView' does not implement the 'UIAccelerometerDelegate' protocol
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView touchesBegan:withEvent:]':
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:306: warning: unused variable 'location'
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:305: warning: unused variable 'tapCount'
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView touchesMoved:withEvent:]':
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:319: warning: unused variable 'location'
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:318: warning: unused variable 'tapCount'
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView touchesEnded:withEvent:]':
+o/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:333: warning: unused variable 'tapCount'
+lSLF07#2@83"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283379694#283379694#0(1260"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView configureAccelerometer]':/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:18: warning: class 'GameView' does not implement the 'UIAccelerometerDelegate' protocol/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView touchesBegan:withEvent:]':/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:306: warning: unused variable 'location'/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:305: warning: unused variable 'tapCount'/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView touchesMoved:withEvent:]':/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:319: warning: unused variable 'location'/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:318: warning: unused variable 'tapCount'/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m: In function '-[GameView touchesEnded:withEvent:]':/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m:333: warning: unused variable 'tapCount'6(22@74"Class 'GameView' does not implement the 'UIAccelerometerDelegate' protocol283379694#127#164#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283377385#18#0#18#0#45"class '*' does not implement the '*' protocol0(22@26"Unused variable 'location'283379694#419#117#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283377385#306#0#306#0#19"unused variable '*'0(22@26"Unused variable 'tapCount'283379694#536#117#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283377385#305#0#305#0#19"unused variable '*'0(22@26"Unused variable 'location'283379694#781#117#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283377385#319#0#319#0#19"unused variable '*'0(22@26"Unused variable 'tapCount'283379694#898#117#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283377385#318#0#318#0#19"unused variable '*'0(22@26"Unused variable 'tapCount'283379694#1143#117#0(6@75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m283377385#333#0#333#0#19"unused variable '*'0(0#0#75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m4300882208#2123"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../GameView.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/GameView.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/../MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379694.222986
+e283379694.319400
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m283379694#283379694#0(0"0(0#0#74"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m4300882208#2121"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../MapData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/MapData.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/NpcData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379694.562087
+e283379694.811717
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m283379694#283379694#0(0"0(0#0#71"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m4300882208#2118"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/NpcData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/NpcData.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/PlayerData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379694.457748
+e283379694.561947
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m283379694#283379694#0(0"0(0#0#74"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m4300882208#2124"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/PlayerData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/PlayerData.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/Simple_RPGAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379693.983076
+e283379694.222845
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m283379693#283379694#0(0"0(0#0#85"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m4300882208#2146"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGAppDelegate.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGAppDelegate.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/Simple_RPGViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379693.987605
+e283379694.119321
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m283379693#283379694#0(0"0(0#0#88"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m4300882208#2152"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/Simple_RPGViewController.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple_RPGViewController.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Classes/../TileData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283379694.319538
+e283379694.457073
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m283379694#283379694#0(0"0(0#0#75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m4300882208#2123"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Classes/../TileData.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/TileData.o"0#
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s283377288.120167
+e283377288.206042
+r1
+xCompileC
+xbuild/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m283377288#283377288#0(0"0(0#0#60"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m4300882208#2104"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/main.m" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/Simple_RPGViewController.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib"
+s283377287.193200
+e283377287.947683
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib283377287#283377287#0(0"0(0#0#68"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib4300882208#534"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/MainWindow.nib" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/MainWindow.xib"0#
+
+CCompileXIB "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib"
+s283377287.194287
+e283377288.116601
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib
+lSLF07#2@39"CompileXIB Simple_RPGViewController.xib283377287#283377288#0(0"0(0#0#82"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib4300882208#562"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple_RPGViewController.nib" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPGViewController.xib"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Icon.png" Icon.png
+s283377287.947825
+e283377287.989163
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png283377287#283377287#0(0"0(0#0#62"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Icon.png4300882208#506"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Icon.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Map 1.png" "Map 1.png"
+s283377287.987396
+e283377288.119984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Map 1.png
+xMap 1.png
+lSLF07#2@14"Copy Map 1.png283377287#283377288#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 1.png4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 1.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Map 1.txt" "Map 1.txt"
+s279472109.589268
+e279472109.599893
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Map 1.txt
+xMap 1.txt
+lSLF07#2@14"Copy Map 1.txt279472109#279472109#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 1.txt4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 1.txt" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Map 2.png" "Map 2.png"
+s283377287.975122
+e283377287.987266
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Map 2.png
+xMap 2.png
+lSLF07#2@14"Copy Map 2.png283377287#283377287#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 2.png4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 2.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Map 2.txt" "Map 2.txt"
+s279472388.771932
+e279472388.788517
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Map 2.txt
+xMap 2.txt
+lSLF07#2@14"Copy Map 2.txt279472388#279472388#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 2.txt4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Map 2.txt" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Menu Button.png" "Menu Button.png"
+s283377287.951672
+e283377288.117200
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Menu Button.png
+xMenu Button.png
+lSLF07#2@20"Copy Menu Button.png283377287#283377288#0(0"0(0#0#69"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Menu Button.png4300882208#513"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Menu Button.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npc 0.png" "Npc 0.png"
+s283377287.959181
+e283377287.974981
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Npc 0.png
+xNpc 0.png
+lSLF07#2@14"Copy Npc 0.png283377287#283377287#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 0.png4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 0.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npc 1.png" "Npc 1.png"
+s283377287.954791
+e283377288.119733
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Npc 1.png
+xNpc 1.png
+lSLF07#2@14"Copy Npc 1.png283377287#283377288#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 1.png4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 1.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npc 2.png" "Npc 2.png"
+s283377287.989282
+e283377288.119172
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Npc 2.png
+xNpc 2.png
+lSLF07#2@14"Copy Npc 2.png283377287#283377288#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 2.png4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npc 2.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/Npcs.txt" Npcs.txt
+s279478401.654883
+e279478401.703750
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/Npcs.txt
+xNpcs.txt
+lSLF07#2@13"Copy Npcs.txt279478401#279478401#0(0"0(0#0#62"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npcs.txt4300882208#506"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Npcs.txt" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/background.png" background.png
+s283377287.952596
+e283377288.119373
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png283377287#283377288#0(0"0(0#0#68"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/background.png4300882208#512"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/background.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/credits.png" credits.png
+s283377287.949775
+e283377288.075471
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/credits.png
+xcredits.png
+lSLF07#2@16"Copy credits.png283377287#283377288#0(0"0(0#0#65"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/credits.png4300882208#509"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/credits.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/event.png" event.png
+s283377288.075601
+e283377288.117032
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/event.png
+xevent.png
+lSLF07#2@14"Copy event.png283377288#283377288#0(0"0(0#0#63"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/event.png4300882208#507"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/event.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/humanm1.gif" humanm1.gif
+r0
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/humanm1.png" humanm1.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/instructions.png" instructions.png
+s283377287.950734
+e283377288.117436
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/instructions.png
+xinstructions.png
+lSLF07#2@21"Copy instructions.png283377287#283377288#0(0"0(0#0#70"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/instructions.png4300882208#514"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/instructions.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/mainmenu.png" mainmenu.png
+s283377287.953512
+e283377288.119552
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/mainmenu.png
+xmainmenu.png
+lSLF07#2@17"Copy mainmenu.png283377287#283377288#0(0"0(0#0#66"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/mainmenu.png4300882208#510"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/mainmenu.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/options.png" options.png
+s283377287.948839
+e283377288.116808
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/options.png
+xoptions.png
+lSLF07#2@16"Copy options.png283377287#283377288#0(0"0(0#0#65"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/options.png4300882208#509"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/options.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/player.png" player.png
+s279468643.275640
+e279468643.294292
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Simple RPG.app/player.png
+xplayer.png
+lSLF07#2@15"Copy player.png279468643#279468643#0(0"0(0#0#64"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/player.png4300882208#508"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/player.png" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Simple RPG.app/windowRGBA.png" windowRGBA.png
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app.dSYM" "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG"
+s283379694.852276
+e283379694.895399
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app.dSYM
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/Simple RPG.app.dSYM" "build/Debug-iphonesimulator/Simple RPG.app/Simple RPG"283379694#283379694#0(0"0(0#0#107"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG4300882208#443"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG" -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG" normal i386
+r0
+
+CLd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG" normal i386
+s283379694.812307
+e283379694.852137
+r1
+xLd
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG
+xnormal
+xi386
+lSLF07#2@112"Link /Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG283379694#283379694#0(0"0(0#0#0"4300882208#962"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk "-L/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" -filelist "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Objects-normal/i386/Simple RPG.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Simple RPG"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app/Info.plist" Simple_RPG-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Info.plist" Simple_RPG-Info.plist
+s283377287.164739
+e283377287.193065
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Info.plist
+xSimple_RPG-Info.plist
+lSLF07#2@29"Process Simple_RPG-Info.plist283377287#283377287#0(0"0(0#0#75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPG-Info.plist4300882208#539"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Simple_RPG-Info.plist -genpkginfo "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Simple_RPG_Prefix-gtroengvjstedxarhqortoarwfyg/Simple_RPG_Prefix.pch.gch Simple_RPG_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dshqdqockflhghfsxqfmgpiuqlnl/Simple_RPG_Prefix.pch.gch Simple_RPG_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch.pth Simple_RPG_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s282423571.477668
+e282423571.806465
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch.pth
+xSimple_RPG_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile Simple_RPG_Prefix.pch282423571#282423571#0(0"0(0#0#75"/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPG_Prefix.pch4300882208#1967"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-generated-files.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-own-target-headers.hmap" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/Simple RPG-project-headers.hmap" "-F/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Simple RPG.build/Debug-iphonesimulator/Simple RPG.build/DerivedSources" -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/Simple_RPG_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Simple_RPG_Prefix-dytvcsoxmuqhqagaxgwjhcarxpez/Simple_RPG_Prefix.pch.pth0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/iRPG/Simple RPG Dec. 28, 2009/build/Debug-iphonesimulator/Simple RPG.app"
+r0
+
+CTouch "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"
+s283379694.895530
+e283379694.899176
+r1
+xTouch
+x/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app
+lSLF07#2@102"Touch /Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app283379694#283379694#0(0"0(0#0#0"4300882208#315"    cd "/Users/matthew/Desktop/My iPhone Successes/Simple RPG"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My iPhone Successes/Simple RPG/build/Debug-iphonesimulator/Simple RPG.app"0#
+

@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OGLGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 539}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 428}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OGLGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{511, 57}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 576}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {921, 513}}";
+			sepNavSelRange = "{450, 0}";
+			sepNavVisRange = "{0, 520}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPhone RPG */ = {
+		activeExec = 0;
+		executables = (
+			349EBD4C117944FB0091AC77 /* iPhone RPG */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1128, 1560}}";
+			sepNavSelRange = "{1658, 0}";
+			sepNavVisRange = "{1458, 314}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2649, 3622}\";\n            s = 0;\n        },\n                {\n            r = \"{6296, 8091}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{17236, 939}\";\n                    s = 0;\n                }\n            );\n            r = \"{14421, 10513}\";\n            s = 0;\n        },\n                {\n            r = \"{24957, 509}\";\n            s = 0;\n        },\n                {\n            r = \"{25504, 2293}\";\n            s = 0;\n        },\n                {\n            r = \"{27829, 1970}\";\n            s = 0;\n        },\n                {\n            r = \"{29855, 2148}\";\n            s = 0;\n        },\n                {\n            r = \"{32049, 2406}\";\n            s = 0;\n        },\n                {\n            r = \"{34505, 1360}\";\n            s = 0;\n        },\n                {\n            r = \"{35914, 3}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{36011, 1158}\";\n                    s = 0;\n                },\n                                {\n                    r = \"{37193, 595}\";\n                    s = 0;\n                }\n            );\n            r = \"{35966, 3251}\";\n            s = 0;\n        },\n                {\n            r = \"{39266, 3}\";\n            s = 0;\n        },\n                {\n            r = \"{39318, 3}\";\n            s = 0;\n        },\n                {\n            r = \"{39370, 3}\";\n            s = 0;\n        },\n                {\n            r = \"{39442, 965}\";\n            s = 0;\n        },\n                {\n            r = \"{40473, 857}\";\n            s = 0;\n        },\n                {\n            r = \"{41398, 857}\";\n            s = 0;\n        },\n                {\n            r = \"{42330, 329}\";\n            s = 0;\n        },\n                {\n            r = \"{42713, 368}\";\n            s = 0;\n        },\n                {\n            r = \"{43155, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{43551, 353}\";\n            s = 0;\n        },\n                {\n            r = \"{46115, 19}\";\n            s = 0;\n        },\n                {\n            r = \"{46698, 96}\";\n            s = 0;\n        },\n                {\n            r = \"{46966, 477}\";\n            s = 0;\n        },\n                {\n            r = \"{47575, 274}\";\n            s = 0;\n        },\n                {\n            r = \"{47995, 315}\";\n            s = 0;\n        },\n                {\n            r = \"{48364, 674}\";\n            s = 0;\n        },\n                {\n            r = \"{49065, 131}\";\n            s = 0;\n        },\n                {\n            r = \"{49225, 1308}\";\n            s = 0;\n        },\n                {\n            r = \"{50563, 286}\";\n            s = 0;\n        },\n                {\n            r = \"{50872, 33}\";\n            s = 0;\n        },\n                {\n            r = \"{50926, 724}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 51658}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1128, 2379}}";
+			sepNavSelRange = "{4753, 0}";
+			sepNavVisRange = "{3861, 663}";
+			sepNavWindowFrame = "{{15, 50}, {1425, 828}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 349EBD4C117944FB0091AC77 /* iPhone RPG */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhone RPG */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPhone RPG */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 349EBD5E117944FE0091AC77 /* Code sense */;
+		executables = (
+			349EBD4C117944FB0091AC77 /* iPhone RPG */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					307,
+					20,
+					207,
+					207,
+					135,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					882,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309662550;
+			PBXWorkspaceStateSaveDate = 309662550;
+		};
+		sourceControlManager = 349EBD5D117944FE0091AC77 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	349EBD4C117944FB0091AC77 /* iPhone RPG */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "iPhone RPG";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	349EBD5D117944FE0091AC77 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	349EBD5E117944FE0091AC77 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	349EBF9011795DD90091AC77 /* MapData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 379}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	349EBF9111795DD90091AC77 /* MapData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 951}";
+		};
+	};
+	349EBF9211795DD90091AC77 /* TileData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 513}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 644}";
+		};
+	};
+	349EBF9311795DD90091AC77 /* TileData.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2519, 477}\";\n            s = 0;\n        },\n                {\n            r = \"{3050, 504}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3562}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {921, 728}}";
+			sepNavSelRange = "{2520, 0}";
+			sepNavVisRange = "{329, 2248}";
+		};
+	};
+	349EBF9411795DD90091AC77 /* WorldNpc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 490}}";
+			sepNavSelRange = "{300, 0}";
+			sepNavVisRange = "{0, 401}";
+		};
+	};
+	349EBF9511795DD90091AC77 /* WorldNpc.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{159, 43}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1899}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {921, 533}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 1850}";
+		};
+	};
+	349EBF9611795DD90091AC77 /* NpcData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 538}}";
+			sepNavSelRange = "{429, 0}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	349EBF9711795DD90091AC77 /* NpcData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 1326}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 893}";
+		};
+	};
+	349EBF9811795DD90091AC77 /* PlayerData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 247}}";
+			sepNavSelRange = "{159, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	349EBF9911795DD90091AC77 /* PlayerData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 1131}}";
+			sepNavSelRange = "{285, 200}";
+			sepNavVisRange = "{0, 1492}";
+		};
+	};
+	349EBF9E11795DD90091AC77 /* DamageEffect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 538}}";
+			sepNavSelRange = "{468, 0}";
+			sepNavVisRange = "{0, 513}";
+		};
+	};
+	349EBF9F11795DD90091AC77 /* DamageEffect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 585}}";
+			sepNavSelRange = "{1090, 0}";
+			sepNavVisRange = "{25, 1532}";
+		};
+	};
+	349EBFA711795DF30091AC77 /* Icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 50}, {1425, 828}}";
+		};
+	};
+	34F8001E11960FEF001502B2 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 477}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+}

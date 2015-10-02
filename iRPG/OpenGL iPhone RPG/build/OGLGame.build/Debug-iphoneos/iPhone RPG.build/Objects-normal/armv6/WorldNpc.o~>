@@ -1,0 +1,3 @@
+/Users/matthew/Desktop/OpenGL iPhone RPG/Classes/WorldNpc.m:4: error: no declaration of property 'moveNpcTimer' found in the interface
+/Users/matthew/Desktop/OpenGL iPhone RPG/Classes/WorldNpc.m:43: warning: property 'npcMoveTimer' requires method '-npcMoveTimer' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/OpenGL iPhone RPG/Classes/WorldNpc.m:43: warning: property 'npcMoveTimer' requires the method 'setNpcMoveTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation

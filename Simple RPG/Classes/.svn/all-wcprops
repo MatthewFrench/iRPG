@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes
+END
+NpcData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/NpcData.h
+END
+DamageEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/DamageEffect.h
+END
+PlayerData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/PlayerData.m
+END
+Simple_RPGAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/Simple_RPGAppDelegate.h
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/Item.h
+END
+NpcData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/NpcData.m
+END
+DamageEffect.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/DamageEffect.m
+END
+Simple_RPGViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/Simple_RPGViewController.h
+END
+Simple_RPGAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/Simple_RPGAppDelegate.m
+END
+Item.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/Item.m
+END
+Simple_RPGViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/Simple_RPGViewController.m
+END
+PlayerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Classes/PlayerData.h
+END

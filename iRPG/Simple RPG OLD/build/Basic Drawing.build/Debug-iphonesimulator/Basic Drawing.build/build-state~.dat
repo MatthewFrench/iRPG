@@ -1,0 +1,245 @@
+TBasic Drawing
+v7
+r0
+t276990830.783390
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Info.plist" Basic_Drawing-Info.plist
+cCompileXIB "/Users/matthew/Desktop/Basic Drawing/MainWindow.xib"
+cCompileXIB "/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib"
+cProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch.gch Basic_Drawing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/Basic Drawing/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingAppDelegate.o" "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingViewController.o" "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004ABFD79400000000000000EE
+t1254086548
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib
+c000000004AD22A4E00000000000018F3
+t1255287374
+s6387
+
+N/Users/matthew/Desktop/Basic Drawing/Basic_Drawing_Prefix.pch
+c000000004AD22A4E00000000000000C3
+t1255287374
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.h
+c000000004AD22A4E00000000000001FF
+t1255287374
+s511
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m
+c000000004AD22A4E0000000000000284
+t1255287374
+s644
+i"Basic_DrawingAppDelegate.h"
+i"Basic_DrawingViewController.h"
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.h
+c000000004AD22A4E00000000000000FC
+t1255287374
+s252
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m
+c000000004AD253E80000000000000902
+t1255298024
+s2306
+i"Basic_DrawingViewController.h"
+
+N/Users/matthew/Desktop/Basic Drawing/MainWindow.xib
+c000000004AD22A4E0000000000002490
+t1255287374
+s9360
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic Drawing.LinkFileList
+c000000004AD253E800000000000001B7
+t1255298024
+s439
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingAppDelegate.o
+t1255298030
+s38184
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingViewController.o
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/main.o
+t1255298030
+s5940
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app.dSYM
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Basic Drawing
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Basic_DrawingViewController.nib
+t1255298028
+s800
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Info.plist
+t1255298024
+s586
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/MainWindow.nib
+t1255298028
+s1116
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/PkgInfo
+t1255298024
+s8
+
+N/Users/matthew/Desktop/Basic Drawing/main.m
+c000000004AD22A4E000000000000016B
+t1255287374
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch.gch
+t1255298030
+s13034960
+
+NBasic_Drawing-Info.plist
+c000000004AD22A4E000000000000038D
+t1255287374
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276990824#276990824#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingAppDelegate.o" "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276990830.559570
+e276990830.765970
+r1
+xCompileC
+xbuild/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingAppDelegate.o
+x/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m276990830#276990830#0(0"0(0#0#71"/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m4300882208#2025"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-generated-files.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-own-target-headers.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-project-headers.hmap" "-F/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch -c "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m" -o "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingAppDelegate.o"0#
+
+CCompileC "build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingViewController.o" "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276990830.712876
+e276990830.783285
+r0
+xCompileC
+xbuild/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingViewController.o
+x/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m: In function '-[Basic_DrawingViewController drawRect:]':
+o/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m:66: error: 'squareSize' undeclared (first use in this function)
+o/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m:66: error: (Each undeclared identifier is reported only once
+o/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m:66: error: for each function it appears in.)
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_Basic_DrawingViewController" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASS_Basic_DrawingViewController" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_Basic_DrawingViewController
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@82"Compile /Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m276990830#276990830#0(1159"/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m: In function '-[Basic_DrawingViewController drawRect:]':/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m:66: error: 'squareSize' undeclared (first use in this function)/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m:66: error: (Each undeclared identifier is reported only once/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m:66: error: for each function it appears in.){standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_Basic_DrawingViewController" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASS_Basic_DrawingViewController" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_Basic_DrawingViewController{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_01(4@52"'squareSize' undeclared (first use in this function)276990830#132#139#0(6@74"/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m276990824#66#0#66#0#43"'*' undeclared (first use in this function)0(0#0#74"/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m4300882208#2031"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-generated-files.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-own-target-headers.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-project-headers.hmap" "-F/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch -c "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m" -o "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/Basic_DrawingViewController.o"1#
+
+CCompileC "build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/Basic Drawing/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s276990830.558129
+e276990830.712740
+r1
+xCompileC
+xbuild/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/Basic Drawing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/matthew/Desktop/Basic Drawing/main.m276990830#276990830#0(0"0(0#0#43"/Users/matthew/Desktop/Basic Drawing/main.m4300882208#1977"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-generated-files.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-own-target-headers.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-project-headers.hmap" "-F/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch -c "/Users/matthew/Desktop/Basic Drawing/main.m" -o "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib"
+s276990824.477600
+e276990828.111363
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib
+lSLF07#2@42"CompileXIB Basic_DrawingViewController.xib276990824#276990828#0(0"0(0#0#68"/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib4300882208#520"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Basic_DrawingViewController.nib" "/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib"0#
+
+CCompileXIB "/Users/matthew/Desktop/Basic Drawing/MainWindow.xib"
+s276990824.431847
+e276990828.135535
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Basic Drawing/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib276990824#276990828#0(0"0(0#0#51"/Users/matthew/Desktop/Basic Drawing/MainWindow.xib4300882208#486"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/MainWindow.nib" "/Users/matthew/Desktop/Basic Drawing/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app.dSYM" "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Basic Drawing"
+r0
+
+CLd "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Basic Drawing" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Info.plist" Basic_Drawing-Info.plist
+s276990824.411080
+e276990824.431694
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Info.plist
+xBasic_Drawing-Info.plist
+lSLF07#2@32"Process Basic_Drawing-Info.plist276990824#276990824#0(0"0(0#0#61"/Users/matthew/Desktop/Basic Drawing/Basic_Drawing-Info.plist4300882208#497"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Basic_Drawing-Info.plist -genpkginfo "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app/Info.plist"0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch.gch Basic_Drawing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s276990828.135723
+e276990830.557939
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch.gch
+xBasic_Drawing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Basic_Drawing_Prefix.pch276990828#276990830#0(0"0(0#0#61"/Users/matthew/Desktop/Basic Drawing/Basic_Drawing_Prefix.pch4300882208#1863"    cd "/Users/matthew/Desktop/Basic Drawing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-generated-files.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-own-target-headers.hmap" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/Basic Drawing-project-headers.hmap" "-F/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphonesimulator/Basic Drawing.build/DerivedSources" -c "/Users/matthew/Desktop/Basic Drawing/Basic_Drawing_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-frfwbwoucyupakednslekslsdeqv/Basic_Drawing_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphonesimulator/Basic Drawing.app"
+r0
+

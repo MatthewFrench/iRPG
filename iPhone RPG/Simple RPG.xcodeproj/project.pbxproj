@@ -1,0 +1,705 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* Simple_RPGAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* Simple_RPGAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* Simple_RPGViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* Simple_RPGViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* Simple_RPGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* Simple_RPGViewController.m */; };
+		341BB5D61087436000779A86 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 341BB5D51087436000779A86 /* Icon.png */; };
+		341C12B91177B67800FFABCC /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = 341C12B81177B67800FFABCC /* loading.png */; };
+		341C13AF1177CAAF00FFABCC /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 341C13AE1177CAAF00FFABCC /* Default.png */; };
+		341DA51D10E950AA00565ED6 /* Item 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 341DA51C10E950AA00565ED6 /* Item 0.png */; };
+		341DA54810E95A9200565ED6 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 341DA54710E95A9200565ED6 /* Item.m */; };
+		3422B1DE10894AB700495662 /* options.png in Resources */ = {isa = PBXBuildFile; fileRef = 3422B1DB10894AB700495662 /* options.png */; };
+		3422B1DF10894AB700495662 /* credits.png in Resources */ = {isa = PBXBuildFile; fileRef = 3422B1DC10894AB700495662 /* credits.png */; };
+		3422B1E210894B7800495662 /* instructions.png in Resources */ = {isa = PBXBuildFile; fileRef = 3422B1E110894B7800495662 /* instructions.png */; };
+		3432063110A85B3400E4E46E /* Npc 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 3432063010A85B3400E4E46E /* Npc 0.png */; };
+		343206DE10A8699F00E4E46E /* Npc 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 343206DD10A8699F00E4E46E /* Npc 2.png */; };
+		34356A1F1104ADBE009D9049 /* mainmenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 34356A1E1104ADBE009D9049 /* mainmenu.png */; };
+		344578F410933E710017CF1B /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 344578F310933E710017CF1B /* background.png */; };
+		3448C1E6109E34560087EF5F /* Npc 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3448C1E4109E34560087EF5F /* Npc 1.png */; };
+		345EDA24115D8B3C00E49E96 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9EB115D8B3C00E49E96 /* 1.png */; };
+		345EDA25115D8B3C00E49E96 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9EC115D8B3C00E49E96 /* 10.png */; };
+		345EDA26115D8B3C00E49E96 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9ED115D8B3C00E49E96 /* 11.png */; };
+		345EDA27115D8B3C00E49E96 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9EE115D8B3C00E49E96 /* 12.png */; };
+		345EDA28115D8B3C00E49E96 /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9EF115D8B3C00E49E96 /* 13.png */; };
+		345EDA29115D8B3C00E49E96 /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F0115D8B3C00E49E96 /* 14.png */; };
+		345EDA2A115D8B3C00E49E96 /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F1115D8B3C00E49E96 /* 15.png */; };
+		345EDA2B115D8B3C00E49E96 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F2115D8B3C00E49E96 /* 16.png */; };
+		345EDA2C115D8B3C00E49E96 /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F3115D8B3C00E49E96 /* 17.png */; };
+		345EDA2D115D8B3C00E49E96 /* 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F4115D8B3C00E49E96 /* 18.png */; };
+		345EDA2E115D8B3C00E49E96 /* 19.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F5115D8B3C00E49E96 /* 19.png */; };
+		345EDA2F115D8B3C00E49E96 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F6115D8B3C00E49E96 /* 2.png */; };
+		345EDA30115D8B3C00E49E96 /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F7115D8B3C00E49E96 /* 20.png */; };
+		345EDA31115D8B3C00E49E96 /* 21.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F8115D8B3C00E49E96 /* 21.png */; };
+		345EDA32115D8B3C00E49E96 /* 22.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9F9115D8B3C00E49E96 /* 22.png */; };
+		345EDA33115D8B3C00E49E96 /* 23.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9FA115D8B3C00E49E96 /* 23.png */; };
+		345EDA34115D8B3C00E49E96 /* 24.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9FB115D8B3C00E49E96 /* 24.png */; };
+		345EDA35115D8B3C00E49E96 /* 25.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9FC115D8B3C00E49E96 /* 25.png */; };
+		345EDA36115D8B3C00E49E96 /* 26.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9FD115D8B3C00E49E96 /* 26.png */; };
+		345EDA37115D8B3C00E49E96 /* 27.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9FE115D8B3C00E49E96 /* 27.png */; };
+		345EDA38115D8B3C00E49E96 /* 28.png in Resources */ = {isa = PBXBuildFile; fileRef = 345ED9FF115D8B3C00E49E96 /* 28.png */; };
+		345EDA39115D8B3C00E49E96 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA00115D8B3C00E49E96 /* 29.png */; };
+		345EDA3A115D8B3C00E49E96 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA01115D8B3C00E49E96 /* 3.png */; };
+		345EDA3B115D8B3C00E49E96 /* 30.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA02115D8B3C00E49E96 /* 30.png */; };
+		345EDA3C115D8B3C00E49E96 /* 31.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA03115D8B3C00E49E96 /* 31.png */; };
+		345EDA3D115D8B3C00E49E96 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA04115D8B3C00E49E96 /* 32.png */; };
+		345EDA3E115D8B3C00E49E96 /* 33.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA05115D8B3C00E49E96 /* 33.png */; };
+		345EDA3F115D8B3C00E49E96 /* 34.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA06115D8B3C00E49E96 /* 34.png */; };
+		345EDA40115D8B3C00E49E96 /* 35.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA07115D8B3C00E49E96 /* 35.png */; };
+		345EDA41115D8B3C00E49E96 /* 36.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA08115D8B3C00E49E96 /* 36.png */; };
+		345EDA42115D8B3C00E49E96 /* 37.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA09115D8B3C00E49E96 /* 37.png */; };
+		345EDA43115D8B3C00E49E96 /* 38.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA0A115D8B3C00E49E96 /* 38.png */; };
+		345EDA44115D8B3C00E49E96 /* 39.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA0B115D8B3C00E49E96 /* 39.png */; };
+		345EDA45115D8B3C00E49E96 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA0C115D8B3C00E49E96 /* 4.png */; };
+		345EDA46115D8B3C00E49E96 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA0D115D8B3C00E49E96 /* 40.png */; };
+		345EDA47115D8B3C00E49E96 /* 41.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA0E115D8B3C00E49E96 /* 41.png */; };
+		345EDA48115D8B3C00E49E96 /* 42.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA0F115D8B3C00E49E96 /* 42.png */; };
+		345EDA49115D8B3C00E49E96 /* 43.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA10115D8B3C00E49E96 /* 43.png */; };
+		345EDA4A115D8B3C00E49E96 /* 44.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA11115D8B3C00E49E96 /* 44.png */; };
+		345EDA4B115D8B3C00E49E96 /* 45.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA12115D8B3C00E49E96 /* 45.png */; };
+		345EDA4C115D8B3C00E49E96 /* 46.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA13115D8B3C00E49E96 /* 46.png */; };
+		345EDA4D115D8B3C00E49E96 /* 47.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA14115D8B3C00E49E96 /* 47.png */; };
+		345EDA4E115D8B3C00E49E96 /* 48.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA15115D8B3C00E49E96 /* 48.png */; };
+		345EDA4F115D8B3C00E49E96 /* 49.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA16115D8B3C00E49E96 /* 49.png */; };
+		345EDA50115D8B3C00E49E96 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA17115D8B3C00E49E96 /* 5.png */; };
+		345EDA51115D8B3C00E49E96 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA18115D8B3C00E49E96 /* 50.png */; };
+		345EDA52115D8B3C00E49E96 /* 51.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA19115D8B3C00E49E96 /* 51.png */; };
+		345EDA53115D8B3C00E49E96 /* 52.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA1A115D8B3C00E49E96 /* 52.png */; };
+		345EDA54115D8B3C00E49E96 /* 53.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA1B115D8B3C00E49E96 /* 53.png */; };
+		345EDA55115D8B3C00E49E96 /* 54.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA1C115D8B3C00E49E96 /* 54.png */; };
+		345EDA56115D8B3C00E49E96 /* 55.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA1D115D8B3C00E49E96 /* 55.png */; };
+		345EDA57115D8B3C00E49E96 /* 56.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA1E115D8B3C00E49E96 /* 56.png */; };
+		345EDA58115D8B3C00E49E96 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA1F115D8B3C00E49E96 /* 6.png */; };
+		345EDA59115D8B3C00E49E96 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA20115D8B3C00E49E96 /* 7.png */; };
+		345EDA5A115D8B3C00E49E96 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA21115D8B3C00E49E96 /* 8.png */; };
+		345EDA5B115D8B3C00E49E96 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA22115D8B3C00E49E96 /* 9.png */; };
+		345EDA5C115D8B3C00E49E96 /* castle.png in Resources */ = {isa = PBXBuildFile; fileRef = 345EDA23115D8B3C00E49E96 /* castle.png */; };
+		345EDAD1115D901200E49E96 /* World Data.gan in Resources */ = {isa = PBXBuildFile; fileRef = 345EDAD0115D901200E49E96 /* World Data.gan */; };
+		3463F32C10F4D94400F148B9 /* event 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3463F32B10F4D94400F148B9 /* event 1.png */; };
+		346EC28E10E36ED60055F3C1 /* DamageEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 346EC28D10E36ED60055F3C1 /* DamageEffect.m */; };
+		349A948F1086940C00655B9A /* GameView.m in Sources */ = {isa = PBXBuildFile; fileRef = 349A948E1086940C00655B9A /* GameView.m */; };
+		34ACD17810D5795B00D4407B /* event 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 34ACD17710D5795B00D4407B /* event 0.png */; };
+		34BC1CF31119C11D001FF485 /* Npc 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BC1CF01119C11D001FF485 /* Npc 4.png */; };
+		34BC1CF41119C11D001FF485 /* Npc 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BC1CF11119C11D001FF485 /* Npc 3.png */; };
+		34BC1CF51119C11D001FF485 /* Npc 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BC1CF21119C11D001FF485 /* Npc 5.png */; };
+		34BD79F51117934800216345 /* charactermenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BD79F41117934800216345 /* charactermenu.png */; };
+		34C71821111903FF00701D88 /* savemenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C71820111903FF00701D88 /* savemenu.png */; };
+		34CB7A55117291960055CDDC /* MapData.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CB7A4E117291960055CDDC /* MapData.m */; };
+		34CB7A56117291960055CDDC /* TileData.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CB7A50117291960055CDDC /* TileData.m */; };
+		34CB7A57117291960055CDDC /* WorldNpc.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CB7A52117291960055CDDC /* WorldNpc.m */; };
+		34CB7A58117291960055CDDC /* NpcData.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CB7A54117291960055CDDC /* NpcData.m */; };
+		34CB7A6F117291CB0055CDDC /* PlayerData.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CB7A6E117291CB0055CDDC /* PlayerData.m */; };
+		34E368F01121A7F40073D8DD /* Spell 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E368EC1121A7F40073D8DD /* Spell 0.png */; };
+		34E368F11121A7F40073D8DD /* Spell 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E368ED1121A7F40073D8DD /* Spell 1.png */; };
+		34E368F21121A7F40073D8DD /* Spell 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E368EE1121A7F40073D8DD /* Spell 2.png */; };
+		34E368F31121A7F40073D8DD /* Spell 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E368EF1121A7F40073D8DD /* Spell 3.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* Simple_RPGAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Simple_RPGAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* Simple_RPGAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Simple_RPGAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iPhone RPG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iPhone RPG.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* Simple_RPGViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Simple_RPGViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* Simple_RPGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Simple_RPGViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* Simple_RPGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Simple_RPGViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Simple_RPG_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Simple_RPG_Prefix.pch; sourceTree = "<group>"; };
+		341BB5D51087436000779A86 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		341C12B81177B67800FFABCC /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
+		341C13AE1177CAAF00FFABCC /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		341DA51C10E950AA00565ED6 /* Item 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Item 0.png"; sourceTree = "<group>"; };
+		341DA54610E95A9200565ED6 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
+		341DA54710E95A9200565ED6 /* Item.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item.m; sourceTree = "<group>"; };
+		3422B1DB10894AB700495662 /* options.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = options.png; sourceTree = "<group>"; };
+		3422B1DC10894AB700495662 /* credits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = credits.png; sourceTree = "<group>"; };
+		3422B1E110894B7800495662 /* instructions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instructions.png; sourceTree = "<group>"; };
+		3432063010A85B3400E4E46E /* Npc 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Npc 0.png"; sourceTree = "<group>"; };
+		343206DD10A8699F00E4E46E /* Npc 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Npc 2.png"; sourceTree = "<group>"; };
+		34356A1E1104ADBE009D9049 /* mainmenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainmenu.png; sourceTree = "<group>"; };
+		344578F310933E710017CF1B /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		3448C1E4109E34560087EF5F /* Npc 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Npc 1.png"; sourceTree = "<group>"; };
+		345ED9EB115D8B3C00E49E96 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		345ED9EC115D8B3C00E49E96 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		345ED9ED115D8B3C00E49E96 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		345ED9EE115D8B3C00E49E96 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		345ED9EF115D8B3C00E49E96 /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.png; sourceTree = "<group>"; };
+		345ED9F0115D8B3C00E49E96 /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = "<group>"; };
+		345ED9F1115D8B3C00E49E96 /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = "<group>"; };
+		345ED9F2115D8B3C00E49E96 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		345ED9F3115D8B3C00E49E96 /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = "<group>"; };
+		345ED9F4115D8B3C00E49E96 /* 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18.png; sourceTree = "<group>"; };
+		345ED9F5115D8B3C00E49E96 /* 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 19.png; sourceTree = "<group>"; };
+		345ED9F6115D8B3C00E49E96 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		345ED9F7115D8B3C00E49E96 /* 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20.png; sourceTree = "<group>"; };
+		345ED9F8115D8B3C00E49E96 /* 21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 21.png; sourceTree = "<group>"; };
+		345ED9F9115D8B3C00E49E96 /* 22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 22.png; sourceTree = "<group>"; };
+		345ED9FA115D8B3C00E49E96 /* 23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 23.png; sourceTree = "<group>"; };
+		345ED9FB115D8B3C00E49E96 /* 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 24.png; sourceTree = "<group>"; };
+		345ED9FC115D8B3C00E49E96 /* 25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25.png; sourceTree = "<group>"; };
+		345ED9FD115D8B3C00E49E96 /* 26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 26.png; sourceTree = "<group>"; };
+		345ED9FE115D8B3C00E49E96 /* 27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 27.png; sourceTree = "<group>"; };
+		345ED9FF115D8B3C00E49E96 /* 28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 28.png; sourceTree = "<group>"; };
+		345EDA00115D8B3C00E49E96 /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		345EDA01115D8B3C00E49E96 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		345EDA02115D8B3C00E49E96 /* 30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30.png; sourceTree = "<group>"; };
+		345EDA03115D8B3C00E49E96 /* 31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 31.png; sourceTree = "<group>"; };
+		345EDA04115D8B3C00E49E96 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32.png; sourceTree = "<group>"; };
+		345EDA05115D8B3C00E49E96 /* 33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 33.png; sourceTree = "<group>"; };
+		345EDA06115D8B3C00E49E96 /* 34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 34.png; sourceTree = "<group>"; };
+		345EDA07115D8B3C00E49E96 /* 35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 35.png; sourceTree = "<group>"; };
+		345EDA08115D8B3C00E49E96 /* 36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 36.png; sourceTree = "<group>"; };
+		345EDA09115D8B3C00E49E96 /* 37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 37.png; sourceTree = "<group>"; };
+		345EDA0A115D8B3C00E49E96 /* 38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 38.png; sourceTree = "<group>"; };
+		345EDA0B115D8B3C00E49E96 /* 39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 39.png; sourceTree = "<group>"; };
+		345EDA0C115D8B3C00E49E96 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		345EDA0D115D8B3C00E49E96 /* 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40.png; sourceTree = "<group>"; };
+		345EDA0E115D8B3C00E49E96 /* 41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 41.png; sourceTree = "<group>"; };
+		345EDA0F115D8B3C00E49E96 /* 42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 42.png; sourceTree = "<group>"; };
+		345EDA10115D8B3C00E49E96 /* 43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 43.png; sourceTree = "<group>"; };
+		345EDA11115D8B3C00E49E96 /* 44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 44.png; sourceTree = "<group>"; };
+		345EDA12115D8B3C00E49E96 /* 45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 45.png; sourceTree = "<group>"; };
+		345EDA13115D8B3C00E49E96 /* 46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 46.png; sourceTree = "<group>"; };
+		345EDA14115D8B3C00E49E96 /* 47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 47.png; sourceTree = "<group>"; };
+		345EDA15115D8B3C00E49E96 /* 48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 48.png; sourceTree = "<group>"; };
+		345EDA16115D8B3C00E49E96 /* 49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 49.png; sourceTree = "<group>"; };
+		345EDA17115D8B3C00E49E96 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		345EDA18115D8B3C00E49E96 /* 50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50.png; sourceTree = "<group>"; };
+		345EDA19115D8B3C00E49E96 /* 51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 51.png; sourceTree = "<group>"; };
+		345EDA1A115D8B3C00E49E96 /* 52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 52.png; sourceTree = "<group>"; };
+		345EDA1B115D8B3C00E49E96 /* 53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 53.png; sourceTree = "<group>"; };
+		345EDA1C115D8B3C00E49E96 /* 54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 54.png; sourceTree = "<group>"; };
+		345EDA1D115D8B3C00E49E96 /* 55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 55.png; sourceTree = "<group>"; };
+		345EDA1E115D8B3C00E49E96 /* 56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 56.png; sourceTree = "<group>"; };
+		345EDA1F115D8B3C00E49E96 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		345EDA20115D8B3C00E49E96 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		345EDA21115D8B3C00E49E96 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		345EDA22115D8B3C00E49E96 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		345EDA23115D8B3C00E49E96 /* castle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = castle.png; sourceTree = "<group>"; };
+		345EDAD0115D901200E49E96 /* World Data.gan */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "World Data.gan"; sourceTree = "<group>"; };
+		3463F32B10F4D94400F148B9 /* event 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "event 1.png"; sourceTree = "<group>"; };
+		346EC28C10E36ED60055F3C1 /* DamageEffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DamageEffect.h; sourceTree = "<group>"; };
+		346EC28D10E36ED60055F3C1 /* DamageEffect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DamageEffect.m; sourceTree = "<group>"; };
+		349A948D1086940C00655B9A /* GameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameView.h; path = ../GameView.h; sourceTree = "<group>"; };
+		349A948E1086940C00655B9A /* GameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameView.m; path = ../GameView.m; sourceTree = "<group>"; };
+		34ACD17710D5795B00D4407B /* event 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "event 0.png"; sourceTree = "<group>"; };
+		34BC1CF01119C11D001FF485 /* Npc 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Npc 4.png"; sourceTree = "<group>"; };
+		34BC1CF11119C11D001FF485 /* Npc 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Npc 3.png"; sourceTree = "<group>"; };
+		34BC1CF21119C11D001FF485 /* Npc 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Npc 5.png"; sourceTree = "<group>"; };
+		34BD79F41117934800216345 /* charactermenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charactermenu.png; sourceTree = "<group>"; };
+		34C71820111903FF00701D88 /* savemenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = savemenu.png; sourceTree = "<group>"; };
+		34CB7A4D117291960055CDDC /* MapData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapData.h; sourceTree = "<group>"; };
+		34CB7A4E117291960055CDDC /* MapData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapData.m; sourceTree = "<group>"; };
+		34CB7A4F117291960055CDDC /* TileData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileData.h; sourceTree = "<group>"; };
+		34CB7A50117291960055CDDC /* TileData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileData.m; sourceTree = "<group>"; };
+		34CB7A51117291960055CDDC /* WorldNpc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorldNpc.h; sourceTree = "<group>"; };
+		34CB7A52117291960055CDDC /* WorldNpc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorldNpc.m; sourceTree = "<group>"; };
+		34CB7A53117291960055CDDC /* NpcData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NpcData.h; sourceTree = "<group>"; };
+		34CB7A54117291960055CDDC /* NpcData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NpcData.m; sourceTree = "<group>"; };
+		34CB7A6D117291CB0055CDDC /* PlayerData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerData.h; sourceTree = "<group>"; };
+		34CB7A6E117291CB0055CDDC /* PlayerData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerData.m; sourceTree = "<group>"; };
+		34E368EC1121A7F40073D8DD /* Spell 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Spell 0.png"; path = "Lightning/Spell 0.png"; sourceTree = "<group>"; };
+		34E368ED1121A7F40073D8DD /* Spell 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Spell 1.png"; path = "Lightning/Spell 1.png"; sourceTree = "<group>"; };
+		34E368EE1121A7F40073D8DD /* Spell 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Spell 2.png"; path = "Lightning/Spell 2.png"; sourceTree = "<group>"; };
+		34E368EF1121A7F40073D8DD /* Spell 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Spell 3.png"; path = "Lightning/Spell 3.png"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Simple_RPG-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Simple_RPG-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				341DA55510E95E1500565ED6 /* App Controller and Other */,
+				34CB7A4D117291960055CDDC /* MapData.h */,
+				34CB7A4E117291960055CDDC /* MapData.m */,
+				34CB7A4F117291960055CDDC /* TileData.h */,
+				34CB7A50117291960055CDDC /* TileData.m */,
+				34CB7A51117291960055CDDC /* WorldNpc.h */,
+				34CB7A52117291960055CDDC /* WorldNpc.m */,
+				34CB7A53117291960055CDDC /* NpcData.h */,
+				34CB7A54117291960055CDDC /* NpcData.m */,
+				34CB7A6D117291CB0055CDDC /* PlayerData.h */,
+				34CB7A6E117291CB0055CDDC /* PlayerData.m */,
+				341DA54E10E95DBF00565ED6 /* Item Data */,
+				341DA54D10E95DAB00565ED6 /* Damage Effect */,
+				349A948D1086940C00655B9A /* GameView.h */,
+				349A948E1086940C00655B9A /* GameView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iPhone RPG.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				345EDAD0115D901200E49E96 /* World Data.gan */,
+				341DA50110E94C2300565ED6 /* Images */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Simple_RPG_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				341C13AE1177CAAF00FFABCC /* Default.png */,
+				341BB5D51087436000779A86 /* Icon.png */,
+				2899E5210DE3E06400AC0155 /* Simple_RPGViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Simple_RPG-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		341DA50110E94C2300565ED6 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				345ED9EA115D8B3C00E49E96 /* tiles */,
+				345D384D1157A920009B0978 /* Spells */,
+				341DA51B10E94EB200565ED6 /* Items */,
+				341DA50610E94C7000565ED6 /* Interfaces */,
+				341DA50410E94C5A00565ED6 /* Events */,
+				341DA50310E94C2C00565ED6 /* Character Sprites */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		341DA50310E94C2C00565ED6 /* Character Sprites */ = {
+			isa = PBXGroup;
+			children = (
+				34BC1CF01119C11D001FF485 /* Npc 4.png */,
+				34BC1CF11119C11D001FF485 /* Npc 3.png */,
+				34BC1CF21119C11D001FF485 /* Npc 5.png */,
+				3432063010A85B3400E4E46E /* Npc 0.png */,
+				3448C1E4109E34560087EF5F /* Npc 1.png */,
+				343206DD10A8699F00E4E46E /* Npc 2.png */,
+			);
+			name = "Character Sprites";
+			sourceTree = "<group>";
+		};
+		341DA50410E94C5A00565ED6 /* Events */ = {
+			isa = PBXGroup;
+			children = (
+				3463F32B10F4D94400F148B9 /* event 1.png */,
+				34ACD17710D5795B00D4407B /* event 0.png */,
+			);
+			name = Events;
+			sourceTree = "<group>";
+		};
+		341DA50610E94C7000565ED6 /* Interfaces */ = {
+			isa = PBXGroup;
+			children = (
+				341C12B81177B67800FFABCC /* loading.png */,
+				34C71820111903FF00701D88 /* savemenu.png */,
+				34BD79F41117934800216345 /* charactermenu.png */,
+				34356A1E1104ADBE009D9049 /* mainmenu.png */,
+				344578F310933E710017CF1B /* background.png */,
+				3422B1E110894B7800495662 /* instructions.png */,
+				3422B1DB10894AB700495662 /* options.png */,
+				3422B1DC10894AB700495662 /* credits.png */,
+			);
+			name = Interfaces;
+			sourceTree = "<group>";
+		};
+		341DA51B10E94EB200565ED6 /* Items */ = {
+			isa = PBXGroup;
+			children = (
+				341DA51C10E950AA00565ED6 /* Item 0.png */,
+			);
+			name = Items;
+			sourceTree = "<group>";
+		};
+		341DA54D10E95DAB00565ED6 /* Damage Effect */ = {
+			isa = PBXGroup;
+			children = (
+				346EC28C10E36ED60055F3C1 /* DamageEffect.h */,
+				346EC28D10E36ED60055F3C1 /* DamageEffect.m */,
+			);
+			name = "Damage Effect";
+			sourceTree = "<group>";
+		};
+		341DA54E10E95DBF00565ED6 /* Item Data */ = {
+			isa = PBXGroup;
+			children = (
+				341DA54610E95A9200565ED6 /* Item.h */,
+				341DA54710E95A9200565ED6 /* Item.m */,
+			);
+			name = "Item Data";
+			sourceTree = "<group>";
+		};
+		341DA55510E95E1500565ED6 /* App Controller and Other */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* Simple_RPGAppDelegate.h */,
+				1D3623250D0F684500981E51 /* Simple_RPGAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* Simple_RPGViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* Simple_RPGViewController.m */,
+			);
+			name = "App Controller and Other";
+			sourceTree = "<group>";
+		};
+		345D384D1157A920009B0978 /* Spells */ = {
+			isa = PBXGroup;
+			children = (
+				34E368EC1121A7F40073D8DD /* Spell 0.png */,
+				34E368ED1121A7F40073D8DD /* Spell 1.png */,
+				34E368EE1121A7F40073D8DD /* Spell 2.png */,
+				34E368EF1121A7F40073D8DD /* Spell 3.png */,
+			);
+			name = Spells;
+			sourceTree = "<group>";
+		};
+		345ED9EA115D8B3C00E49E96 /* tiles */ = {
+			isa = PBXGroup;
+			children = (
+				345ED9EB115D8B3C00E49E96 /* 1.png */,
+				345ED9EC115D8B3C00E49E96 /* 10.png */,
+				345ED9ED115D8B3C00E49E96 /* 11.png */,
+				345ED9EE115D8B3C00E49E96 /* 12.png */,
+				345ED9EF115D8B3C00E49E96 /* 13.png */,
+				345ED9F0115D8B3C00E49E96 /* 14.png */,
+				345ED9F1115D8B3C00E49E96 /* 15.png */,
+				345ED9F2115D8B3C00E49E96 /* 16.png */,
+				345ED9F3115D8B3C00E49E96 /* 17.png */,
+				345ED9F4115D8B3C00E49E96 /* 18.png */,
+				345ED9F5115D8B3C00E49E96 /* 19.png */,
+				345ED9F6115D8B3C00E49E96 /* 2.png */,
+				345ED9F7115D8B3C00E49E96 /* 20.png */,
+				345ED9F8115D8B3C00E49E96 /* 21.png */,
+				345ED9F9115D8B3C00E49E96 /* 22.png */,
+				345ED9FA115D8B3C00E49E96 /* 23.png */,
+				345ED9FB115D8B3C00E49E96 /* 24.png */,
+				345ED9FC115D8B3C00E49E96 /* 25.png */,
+				345ED9FD115D8B3C00E49E96 /* 26.png */,
+				345ED9FE115D8B3C00E49E96 /* 27.png */,
+				345ED9FF115D8B3C00E49E96 /* 28.png */,
+				345EDA00115D8B3C00E49E96 /* 29.png */,
+				345EDA01115D8B3C00E49E96 /* 3.png */,
+				345EDA02115D8B3C00E49E96 /* 30.png */,
+				345EDA03115D8B3C00E49E96 /* 31.png */,
+				345EDA04115D8B3C00E49E96 /* 32.png */,
+				345EDA05115D8B3C00E49E96 /* 33.png */,
+				345EDA06115D8B3C00E49E96 /* 34.png */,
+				345EDA07115D8B3C00E49E96 /* 35.png */,
+				345EDA08115D8B3C00E49E96 /* 36.png */,
+				345EDA09115D8B3C00E49E96 /* 37.png */,
+				345EDA0A115D8B3C00E49E96 /* 38.png */,
+				345EDA0B115D8B3C00E49E96 /* 39.png */,
+				345EDA0C115D8B3C00E49E96 /* 4.png */,
+				345EDA0D115D8B3C00E49E96 /* 40.png */,
+				345EDA0E115D8B3C00E49E96 /* 41.png */,
+				345EDA0F115D8B3C00E49E96 /* 42.png */,
+				345EDA10115D8B3C00E49E96 /* 43.png */,
+				345EDA11115D8B3C00E49E96 /* 44.png */,
+				345EDA12115D8B3C00E49E96 /* 45.png */,
+				345EDA13115D8B3C00E49E96 /* 46.png */,
+				345EDA14115D8B3C00E49E96 /* 47.png */,
+				345EDA15115D8B3C00E49E96 /* 48.png */,
+				345EDA16115D8B3C00E49E96 /* 49.png */,
+				345EDA17115D8B3C00E49E96 /* 5.png */,
+				345EDA18115D8B3C00E49E96 /* 50.png */,
+				345EDA19115D8B3C00E49E96 /* 51.png */,
+				345EDA1A115D8B3C00E49E96 /* 52.png */,
+				345EDA1B115D8B3C00E49E96 /* 53.png */,
+				345EDA1C115D8B3C00E49E96 /* 54.png */,
+				345EDA1D115D8B3C00E49E96 /* 55.png */,
+				345EDA1E115D8B3C00E49E96 /* 56.png */,
+				345EDA1F115D8B3C00E49E96 /* 6.png */,
+				345EDA20115D8B3C00E49E96 /* 7.png */,
+				345EDA21115D8B3C00E49E96 /* 8.png */,
+				345EDA22115D8B3C00E49E96 /* 9.png */,
+				345EDA23115D8B3C00E49E96 /* castle.png */,
+			);
+			path = tiles;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iPhone RPG */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iPhone RPG" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "iPhone RPG";
+			productName = "Simple RPG";
+			productReference = 1D6058910D05DD3D006BFB54 /* iPhone RPG.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = NO;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Simple RPG" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iPhone RPG */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* Simple_RPGViewController.xib in Resources */,
+				341BB5D61087436000779A86 /* Icon.png in Resources */,
+				3422B1DE10894AB700495662 /* options.png in Resources */,
+				3422B1DF10894AB700495662 /* credits.png in Resources */,
+				3422B1E210894B7800495662 /* instructions.png in Resources */,
+				344578F410933E710017CF1B /* background.png in Resources */,
+				3448C1E6109E34560087EF5F /* Npc 1.png in Resources */,
+				3432063110A85B3400E4E46E /* Npc 0.png in Resources */,
+				343206DE10A8699F00E4E46E /* Npc 2.png in Resources */,
+				34ACD17810D5795B00D4407B /* event 0.png in Resources */,
+				341DA51D10E950AA00565ED6 /* Item 0.png in Resources */,
+				3463F32C10F4D94400F148B9 /* event 1.png in Resources */,
+				34356A1F1104ADBE009D9049 /* mainmenu.png in Resources */,
+				34BD79F51117934800216345 /* charactermenu.png in Resources */,
+				34C71821111903FF00701D88 /* savemenu.png in Resources */,
+				34BC1CF31119C11D001FF485 /* Npc 4.png in Resources */,
+				34BC1CF41119C11D001FF485 /* Npc 3.png in Resources */,
+				34BC1CF51119C11D001FF485 /* Npc 5.png in Resources */,
+				34E368F01121A7F40073D8DD /* Spell 0.png in Resources */,
+				34E368F11121A7F40073D8DD /* Spell 1.png in Resources */,
+				34E368F21121A7F40073D8DD /* Spell 2.png in Resources */,
+				34E368F31121A7F40073D8DD /* Spell 3.png in Resources */,
+				345EDA24115D8B3C00E49E96 /* 1.png in Resources */,
+				345EDA25115D8B3C00E49E96 /* 10.png in Resources */,
+				345EDA26115D8B3C00E49E96 /* 11.png in Resources */,
+				345EDA27115D8B3C00E49E96 /* 12.png in Resources */,
+				345EDA28115D8B3C00E49E96 /* 13.png in Resources */,
+				345EDA29115D8B3C00E49E96 /* 14.png in Resources */,
+				345EDA2A115D8B3C00E49E96 /* 15.png in Resources */,
+				345EDA2B115D8B3C00E49E96 /* 16.png in Resources */,
+				345EDA2C115D8B3C00E49E96 /* 17.png in Resources */,
+				345EDA2D115D8B3C00E49E96 /* 18.png in Resources */,
+				345EDA2E115D8B3C00E49E96 /* 19.png in Resources */,
+				345EDA2F115D8B3C00E49E96 /* 2.png in Resources */,
+				345EDA30115D8B3C00E49E96 /* 20.png in Resources */,
+				345EDA31115D8B3C00E49E96 /* 21.png in Resources */,
+				345EDA32115D8B3C00E49E96 /* 22.png in Resources */,
+				345EDA33115D8B3C00E49E96 /* 23.png in Resources */,
+				345EDA34115D8B3C00E49E96 /* 24.png in Resources */,
+				345EDA35115D8B3C00E49E96 /* 25.png in Resources */,
+				345EDA36115D8B3C00E49E96 /* 26.png in Resources */,
+				345EDA37115D8B3C00E49E96 /* 27.png in Resources */,
+				345EDA38115D8B3C00E49E96 /* 28.png in Resources */,
+				345EDA39115D8B3C00E49E96 /* 29.png in Resources */,
+				345EDA3A115D8B3C00E49E96 /* 3.png in Resources */,
+				345EDA3B115D8B3C00E49E96 /* 30.png in Resources */,
+				345EDA3C115D8B3C00E49E96 /* 31.png in Resources */,
+				345EDA3D115D8B3C00E49E96 /* 32.png in Resources */,
+				345EDA3E115D8B3C00E49E96 /* 33.png in Resources */,
+				345EDA3F115D8B3C00E49E96 /* 34.png in Resources */,
+				345EDA40115D8B3C00E49E96 /* 35.png in Resources */,
+				345EDA41115D8B3C00E49E96 /* 36.png in Resources */,
+				345EDA42115D8B3C00E49E96 /* 37.png in Resources */,
+				345EDA43115D8B3C00E49E96 /* 38.png in Resources */,
+				345EDA44115D8B3C00E49E96 /* 39.png in Resources */,
+				345EDA45115D8B3C00E49E96 /* 4.png in Resources */,
+				345EDA46115D8B3C00E49E96 /* 40.png in Resources */,
+				345EDA47115D8B3C00E49E96 /* 41.png in Resources */,
+				345EDA48115D8B3C00E49E96 /* 42.png in Resources */,
+				345EDA49115D8B3C00E49E96 /* 43.png in Resources */,
+				345EDA4A115D8B3C00E49E96 /* 44.png in Resources */,
+				345EDA4B115D8B3C00E49E96 /* 45.png in Resources */,
+				345EDA4C115D8B3C00E49E96 /* 46.png in Resources */,
+				345EDA4D115D8B3C00E49E96 /* 47.png in Resources */,
+				345EDA4E115D8B3C00E49E96 /* 48.png in Resources */,
+				345EDA4F115D8B3C00E49E96 /* 49.png in Resources */,
+				345EDA50115D8B3C00E49E96 /* 5.png in Resources */,
+				345EDA51115D8B3C00E49E96 /* 50.png in Resources */,
+				345EDA52115D8B3C00E49E96 /* 51.png in Resources */,
+				345EDA53115D8B3C00E49E96 /* 52.png in Resources */,
+				345EDA54115D8B3C00E49E96 /* 53.png in Resources */,
+				345EDA55115D8B3C00E49E96 /* 54.png in Resources */,
+				345EDA56115D8B3C00E49E96 /* 55.png in Resources */,
+				345EDA57115D8B3C00E49E96 /* 56.png in Resources */,
+				345EDA58115D8B3C00E49E96 /* 6.png in Resources */,
+				345EDA59115D8B3C00E49E96 /* 7.png in Resources */,
+				345EDA5A115D8B3C00E49E96 /* 8.png in Resources */,
+				345EDA5B115D8B3C00E49E96 /* 9.png in Resources */,
+				345EDA5C115D8B3C00E49E96 /* castle.png in Resources */,
+				345EDAD1115D901200E49E96 /* World Data.gan in Resources */,
+				341C12B91177B67800FFABCC /* loading.png in Resources */,
+				341C13AF1177CAAF00FFABCC /* Default.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* Simple_RPGAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* Simple_RPGViewController.m in Sources */,
+				349A948F1086940C00655B9A /* GameView.m in Sources */,
+				346EC28E10E36ED60055F3C1 /* DamageEffect.m in Sources */,
+				341DA54810E95A9200565ED6 /* Item.m in Sources */,
+				34CB7A55117291960055CDDC /* MapData.m in Sources */,
+				34CB7A56117291960055CDDC /* TileData.m in Sources */,
+				34CB7A57117291960055CDDC /* WorldNpc.m in Sources */,
+				34CB7A58117291960055CDDC /* NpcData.m in Sources */,
+				34CB7A6F117291CB0055CDDC /* PlayerData.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Simple_RPG_Prefix.pch;
+				INFOPLIST_FILE = "Simple_RPG-Info.plist";
+				PRODUCT_NAME = "iPhone RPG";
+				SDKROOT = iphoneos4.0;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Simple_RPG_Prefix.pch;
+				INFOPLIST_FILE = "Simple_RPG-Info.plist";
+				PRODUCT_NAME = "Simple RPG";
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iPhone RPG" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Simple RPG" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

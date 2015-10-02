@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/main.m
+END
+credits.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/credits.png
+END
+Map 0.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Map%200.png
+END
+Simple_RPGViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Simple_RPGViewController.xib
+END
+Map 1.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Map%201.png
+END
+TileData.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/TileData.m
+END
+Menu Button.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Menu%20Button.png
+END
+Npc 0.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Npc%200.png
+END
+Npc 1.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Npc%201.png
+END
+Simple_RPG-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Simple_RPG-Info.plist
+END
+Npc 2.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Npc%202.png
+END
+Simple_RPG_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/Simple_RPG_Prefix.pch
+END
+instructions.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/instructions.png
+END
+GameView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/GameView.h
+END
+mainmenu.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/mainmenu.png
+END
+MapData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/MapData.h
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gmgrpg_gmgrpg/!svn/ver/8/trunk/Simple%20RPG/MainWindow.xib
+END
+GameView.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gmgrpg_gmgrpg/!svn/ver/5/trunk/Simple%20RPG/GameView.m
+END
+Item 0.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/Item%200.png
+END
+MapData.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/MapData.m
+END
+background.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/background.png
+END
+event.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/event.png
+END
+Icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/Icon.png
+END
+blankevent.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/blankevent.png
+END
+TileData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/TileData.h
+END
+options.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gmgrpg_gmgrpg/!svn/ver/3/trunk/Simple%20RPG/options.png
+END

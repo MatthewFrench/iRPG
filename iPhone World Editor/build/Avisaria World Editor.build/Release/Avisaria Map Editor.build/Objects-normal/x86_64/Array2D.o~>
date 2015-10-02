@@ -1,0 +1,10 @@
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:13: error: no declaration of property 'objects' found in the interface
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:13: error: no declaration of property 'xPos' found in the interface
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:13: error: no declaration of property 'yPos' found in the interface
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m: In function '-[Array2D getObject:]':
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:16: error: expected expression before ')' token
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:16: error: expected expression before ')' token
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:17: error: expected expression before ')' token
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:17: error: expected expression before ')' token
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m: At top level:
+/Users/matthew/Desktop/My Code Sources/Avisaria World Editor/Array2D.m:22: error: expected ':' before '(' token

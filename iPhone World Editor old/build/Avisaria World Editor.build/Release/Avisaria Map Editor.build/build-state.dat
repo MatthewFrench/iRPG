@@ -1,0 +1,1442 @@
+TAvisaria Map Editor
+v7
+r0
+t295318679.907768
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist" Avisaria_Map_Editor-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor" normal x86_64
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor" normal i386
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor" normal ppc
+cCreateUniversalBinary "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor"
+cTouch "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7E366000000000000000EE
+t1266562656
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c0000000047BADA0D0000000000000422
+t1203427853
+s1058
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/DeveloperNonBeta/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/DeveloperNonBeta/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/DeveloperNonBeta/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/DeveloperNonBeta/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c0000000047BADA0D0000000000000422
+t1203427853
+s1058
+
+N/DeveloperNonBeta/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.h
+c000000004BB669C10000000000000234
+t1270245825
+s564
+i<Cocoa/Cocoa.h>
+i"GameView.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m
+c000000004BB6684B00000000000001DD
+t1270245451
+s477
+i"Avisaria_Map_EditorAppDelegate.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch
+c000000004BA3A65300000000000000A9
+t1269016147
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/InfoPlist.strings
+c000000004BA3A658000000000000002D
+t1269016152
+s45
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib
+c000000004BC1C11100000000000798E4
+t1270989073
+s497892
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.h
+c000000004BC24AEB00000000000011BE
+t1271024363
+s4542
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i"TileView.h"
+i"TileData.h"
+i"MapData.h"
+i"NpcData.h"
+i"WorldNpc.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m
+c000000004BC23B62000000000000E5AD
+t1271020386
+s58797
+i"GameView.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.h
+c000000004BA3A66600000000000001C7
+t1269016166
+s455
+i"tileData.h"
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m
+c000000004BE9FD150000000000000573
+t1273625877
+s1395
+i"MapData.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.h
+c000000004BC13C1F00000000000002FB
+t1270955039
+s763
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m
+c000000004BC13E430000000000001090
+t1270955587
+s4240
+i"NpcData.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.h
+c000000004BC1C1D400000000000002DE
+t1270989268
+s734
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m
+c000000004BC1C6A70000000000000DDE
+t1270990503
+s3550
+i"TileData.h"
+i"MapData.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.h
+c000000004BC1304F0000000000000B2B
+t1270952015
+s2859
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i"NpcData.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m
+c000000004BC13B77000000000000359E
+t1270954871
+s13726
+i"TileView.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.h
+c000000004BC1CBE500000000000001A2
+t1270991845
+s418
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m
+c000000004BC1CB4B00000000000006C4
+t1270991691
+s1732
+i"WorldNpc.h"
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor
+t1273625879
+s108084
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor.LinkFileList
+c000000004BE9FC0E00000000000004C8
+t1273625614
+s1224
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o
+t1273625673
+s23936
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o
+t1273625675
+s133000
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o
+t1273625879
+s14276
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o
+t1273625675
+s29852
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o
+t1273625674
+s21748
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o
+t1273625674
+s47380
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o
+t1273625675
+s15136
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o
+t1273625672
+s4868
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor
+t1273625879
+s102848
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor.LinkFileList
+c000000004BE9FC0E00000000000004C0
+t1273625614
+s1216
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o
+t1273625678
+s23936
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o
+t1273625681
+s139076
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o
+t1273625879
+s14352
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o
+t1273625681
+s27380
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o
+t1273625680
+s20184
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o
+t1273625680
+s51504
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o
+t1273625681
+s14936
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o
+t1273625678
+s4900
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor
+t1273625879
+s155176
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor.LinkFileList
+c000000004BE9FC0E00000000000004D8
+t1273625614
+s1240
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o
+t1273625664
+s26184
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o
+t1273625668
+s196232
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o
+t1273625879
+s22084
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o
+t1273625666
+s50620
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o
+t1273625666
+s33968
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o
+t1273625665
+s68804
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o
+t1273625667
+s22952
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o
+t1273625664
+s5072
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app
+t1273625879
+s102
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM
+t1273625879
+s102
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist
+t1273625614
+s922
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor
+t1273625879
+s373184
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/PkgInfo
+t1273625614
+s8
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1273625615
+s92
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/MainMenu.nib
+t1273625615
+s121625
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/World Data.gan
+t2
+s0
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/stickman.png
+t2
+s0
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/World Data.gan
+c000000004BE9FB490000000000047C0A
+t1273625417
+s293898
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m
+c000000004BA3A6640000000000000103
+t1269016164
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Avisaria:iPhone World Editor/stickman.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.h
+c000000004BB669C10000000000000234
+t1270245825
+s564
+i<Cocoa/Cocoa.h>
+i"GameView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m
+c000000004BB6684B00000000000001DD
+t1270245451
+s477
+i"Avisaria_Map_EditorAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch
+c000000004BA3A65300000000000000A9
+t1269016147
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/English.lproj/InfoPlist.strings
+c000000004BA3A658000000000000002D
+t1269016152
+s45
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib
+c000000004BC1C11100000000000798E4
+t1270989073
+s497892
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/GameView.h
+c000000004BC24AEB00000000000011BE
+t1271024363
+s4542
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i"TileView.h"
+i"TileData.h"
+i"MapData.h"
+i"NpcData.h"
+i"WorldNpc.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/GameView.m
+c000000004BC23B62000000000000E5AD
+t1271020386
+s58797
+i"GameView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/MapData.h
+c000000004BA3A66600000000000001C7
+t1269016166
+s455
+i"tileData.h"
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/MapData.m
+c000000004BE9FD150000000000000573
+t1273625877
+s1395
+i"MapData.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/NpcData.h
+c000000004BC13C1F00000000000002FB
+t1270955039
+s763
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/NpcData.m
+c000000004BC13E430000000000001090
+t1270955587
+s4240
+i"NpcData.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileData.h
+c000000004BC1C1D400000000000002DE
+t1270989268
+s734
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileData.m
+c000000004BC1C6A70000000000000DDE
+t1270990503
+s3550
+i"TileData.h"
+i"MapData.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileView.h
+c000000004BC1304F0000000000000B2B
+t1270952015
+s2859
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i"NpcData.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileView.m
+c000000004BC13B77000000000000359E
+t1270954871
+s13726
+i"TileView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/WorldNpc.h
+c000000004BC1CBE500000000000001A2
+t1270991845
+s418
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/WorldNpc.m
+c000000004BC1CB4B00000000000006C4
+t1270991691
+s1732
+i"WorldNpc.h"
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor
+t1273625879
+s108084
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor.LinkFileList
+c000000004BE9FC0E00000000000004C8
+t1273625614
+s1224
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o
+t1273625673
+s23936
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o
+t1273625675
+s133000
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o
+t1273625879
+s14276
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o
+t1273625675
+s29852
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o
+t1273625674
+s21748
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o
+t1273625674
+s47380
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o
+t1273625675
+s15136
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o
+t1273625672
+s4868
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor
+t1273625879
+s102848
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor.LinkFileList
+c000000004BE9FC0E00000000000004C0
+t1273625614
+s1216
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o
+t1273625678
+s23936
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o
+t1273625681
+s139076
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o
+t1273625879
+s14352
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o
+t1273625681
+s27380
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o
+t1273625680
+s20184
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o
+t1273625680
+s51504
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o
+t1273625681
+s14936
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o
+t1273625678
+s4900
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor
+t1273625879
+s155176
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor.LinkFileList
+c000000004BE9FC0E00000000000004D8
+t1273625614
+s1240
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o
+t1273625664
+s26184
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o
+t1273625668
+s196232
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o
+t1273625879
+s22084
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o
+t1273625666
+s50620
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o
+t1273625666
+s33968
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o
+t1273625665
+s68804
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o
+t1273625667
+s22952
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o
+t1273625664
+s5072
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app
+t1273625879
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM
+t1273625879
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist
+t1273625614
+s922
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor
+t1273625879
+s373184
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/PkgInfo
+t1273625614
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1273625615
+s92
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/MainMenu.nib
+t1273625615
+s121625
+
+N/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/main.m
+c000000004BA3A6640000000000000103
+t1269016164
+s259
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-ejvabsxxldpxaxfoikrqpvtxoyar/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fninlgjqyivescgcevccaopalojb/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-gvtbybvfdlsgcdgyzlxmgsckncum/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-atjzhmgxqjmpfiedglrmugzqjdho/Avisaria_Map_Editor_Prefix.pch.gch
+t1272221423
+s50053360
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-cmiyfmehkkvhdjfgxtyeyogfsyob/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-cpidulgpykqybufqzdrezghqdwhx/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dbihevbgtfthztgjfjlecroxowna/Avisaria_Map_Editor_Prefix.pch.gch
+t1272221420
+s52822448
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dgiqqgacirsxxxerwaqnobcyzrff/Avisaria_Map_Editor_Prefix.pch.gch
+t1269118832
+s49901872
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fbixylusfavwupcrrtegiljqmyua/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fmtwfqwlpymoneefioskljybvney/Avisaria_Map_Editor_Prefix.pch.gch
+t1269118832
+s52826544
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-gqpfdlryubzrizcbqttmgqtgcpzr/Avisaria_Map_Editor_Prefix.pch.gch
+t1269118836
+s50057456
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hhbakwdqpmdxjnanxakgbmzaboiy/Avisaria_Map_Editor_Prefix.pch.gch
+t1272221419
+s49897776
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch.gch
+t2
+s0
+
+NAvisaria_Map_Editor-Info.plist
+c000000004BA3A65100000000000003EA
+t1269016145
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295318678#295318678#0(0"0(0#1#0"8641780096#0"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318472.621627
+e295318473.424301
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m295318472#295318473#0(0"0(0#0#84"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m8627464864#1951"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318473.386505
+e295318476.119815
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView mouseUp:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:569: warning: unused variable 'aMousePoint'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView deleteNPC:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1243: warning: unused variable 'deleteNPC'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1347: warning: control reaches end of non-void function
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1365: warning: control reaches end of non-void function
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m295318473#295318476#0(901"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView mouseUp:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:569: warning: unused variable 'aMousePoint'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView deleteNPC:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1243: warning: unused variable 'deleteNPC'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1347: warning: control reaches end of non-void function/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1365: warning: control reaches end of non-void function4(22@29"Unused variable 'aMousePoint'295318473#100#107#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#569#0#569#0#19"unused variable '*'0(22@27"Unused variable 'deleteNPC'295318473#309#106#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1243#0#1243#0#19"unused variable '*'0(22@40"Control reaches end of non-void function295318473#531#119#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1347#0#1347#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function295318473#782#119#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1365#0#1365#0#40"control reaches end of non-void function0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m8625468896#1907"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318678.847730
+e295318679.224801
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m295318678#295318679#0(0"0(0#0#61"/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m8638898880#1905"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318474.964147
+e295318475.415507
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m295318474#295318475#0(0"0(0#0#61"/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m8629076896#1905"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/NpcData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/NpcData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318474.626751
+e295318474.963931
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m: In function '-[TileData getTileOnLayer:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m:85: warning: control reaches end of non-void function
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m295318474#295318474#0(224"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m: In function '-[TileData getTileOnLayer:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m:85: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295318474#107#117#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m292683303#85#0#85#0#40"control reaches end of non-void function0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m8632668224#1907"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318473.424433
+e295318474.197255
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m295318473#295318474#0(0"0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m8632438144#1907"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/TileView.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318475.415651
+e295318475.690267
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m295318475#295318475#0(0"0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m8632767200#1907"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/WorldNpc.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/WorldNpc.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318467.162192
+e295318472.621333
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m295318467#295318472#0(0"0(0#0#58"/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m8634099808#1899"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318478.022265
+e295318479.002219
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m295318478#295318479#0(0"0(0#0#84"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m8629746304#1958"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318478.917468
+e295318481.602734
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView mouseUp:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:569: warning: unused variable 'aMousePoint'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView deleteNPC:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1243: warning: unused variable 'deleteNPC'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1347: warning: control reaches end of non-void function
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1365: warning: control reaches end of non-void function
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m295318478#295318481#0(901"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView mouseUp:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:569: warning: unused variable 'aMousePoint'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView deleteNPC:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1243: warning: unused variable 'deleteNPC'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1347: warning: control reaches end of non-void function/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1365: warning: control reaches end of non-void function4(22@29"Unused variable 'aMousePoint'295318479#100#107#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#569#0#569#0#19"unused variable '*'0(22@27"Unused variable 'deleteNPC'295318479#309#106#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1243#0#1243#0#19"unused variable '*'0(22@40"Control reaches end of non-void function295318479#531#119#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1347#0#1347#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function295318479#782#119#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1365#0#1365#0#40"control reaches end of non-void function0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m8627742080#1914"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/GameView.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/GameView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318679.360780
+e295318679.636233
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m295318679#295318679#0(0"0(0#0#61"/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m8642326912#1912"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/MapData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/MapData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318480.670107
+e295318481.136481
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m295318480#295318481#0(0"0(0#0#61"/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m8630447104#1912"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/NpcData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/NpcData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318480.311815
+e295318480.669748
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m: In function '-[TileData getTileOnLayer:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m:85: warning: control reaches end of non-void function
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m295318480#295318480#0(224"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m: In function '-[TileData getTileOnLayer:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m:85: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295318480#107#117#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m292683303#85#0#85#0#40"control reaches end of non-void function0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m8632733984#1914"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileData.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318479.002371
+e295318480.041657
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m295318479#295318480#0(0"0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m8632411232#1914"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/TileView.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318481.136622
+e295318481.409399
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m295318481#295318481#0(0"0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m8627342624#1914"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/WorldNpc.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/WorldNpc.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318475.690399
+e295318478.917135
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m295318475#295318478#0(0"0(0#0#58"/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m8625958880#1906"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/main.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318460.563566
+e295318464.927585
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m295318460#295318464#0(0"0(0#0#84"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m8632504256#1957"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria_Map_EditorAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/Avisaria_Map_EditorAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318464.740755
+e295318468.198128
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView mouseUp:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:569: warning: unused variable 'aMousePoint'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView deleteNPC:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1243: warning: unused variable 'deleteNPC'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1344: warning: conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)aTable'
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:495: warning: previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1348: warning: conflicting types for '-(id)tableView:(NSTableView *)aTable objectValueForTableColumn:(NSTableColumn *)aCol row:(int)aRow'
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:496: warning: previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView createCGColor:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1593: warning: passing argument 2 of 'CGColorCreate' from incompatible pointer type
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1347: warning: control reaches end of non-void function
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1365: warning: control reaches end of non-void function
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m295318464#295318468#0(2204"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView mouseUp:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:569: warning: unused variable 'aMousePoint'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView deleteNPC:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1243: warning: unused variable 'deleteNPC'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1344: warning: conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)aTable'/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:495: warning: previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1348: warning: conflicting types for '-(id)tableView:(NSTableView *)aTable objectValueForTableColumn:(NSTableColumn *)aCol row:(int)aRow'/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:496: warning: previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView createCGColor:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1593: warning: passing argument 2 of 'CGColorCreate' from incompatible pointer type/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView numberOfRowsInTableView:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1347: warning: control reaches end of non-void function/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m: In function '-[GameView tableView:objectValueForTableColumn:row:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m:1365: warning: control reaches end of non-void function9(22@29"Unused variable 'aMousePoint'295318464#100#107#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#569#0#569#0#19"unused variable '*'0(22@27"Unused variable 'deleteNPC'295318464#309#106#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1243#0#1243#0#19"unused variable '*'0(22@75"Conflicting types for '-(int)numberOfRowsInTableView:(NSTableView *)aTable'295318464#531#154#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1344#0#1344#0#25"conflicting types for '*'0(22@86"Previous declaration of '-(NSInteger)numberOfRowsInTableView:(NSTableView *)tableView'295318464#685#197#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h236253966#495#0#495#0#0"0(22@122"Conflicting types for '-(id)tableView:(NSTableView *)aTable objectValueForTableColumn:(NSTableColumn *)aCol row:(int)aRow'295318464#1014#201#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1348#0#1348#0#25"conflicting types for '*'0(22@139"Previous declaration of '-(id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row'295318464#1215#250#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h236253966#496#0#496#0#0"0(22@68"Passing argument 2 of 'CGColorCreate' from incompatible pointer type295318464#1571#147#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1593#0#1593#0#56"passing argument * of '*' from incompatible pointer type0(22@40"Control reaches end of non-void function295318465#1834#119#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1347#0#1347#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function295318465#2085#119#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m292713186#1365#0#1365#0#40"control reaches end of non-void function0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m8630334816#1913"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/GameView.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/GameView.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/GameView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318678.075513
+e295318679.199654
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m295318678#295318679#0(0"0(0#0#61"/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m8642335968#1911"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/MapData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/MapData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/MapData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318466.290697
+e295318466.828036
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m295318466#295318466#0(0"0(0#0#61"/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m8629990240#1911"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/NpcData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/NpcData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/NpcData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318465.915251
+e295318466.290369
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m: In function '-[TileData getTileOnLayer:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m:85: warning: control reaches end of non-void function
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m295318465#295318466#0(224"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m: In function '-[TileData getTileOnLayer:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m:85: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295318466#107#117#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m292683303#85#0#85#0#40"control reaches end of non-void function0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m8632887680#1913"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileData.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileData.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318464.927730
+e295318465.616335
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m: In function '-[TileView createCGColor:]':
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m:374: warning: passing argument 2 of 'CGColorCreate' from incompatible pointer type
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m295318464#295318465#0(252"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m: In function '-[TileView createCGColor:]':/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m:374: warning: passing argument 2 of 'CGColorCreate' from incompatible pointer type1(22@68"Passing argument 2 of 'CGColorCreate' from incompatible pointer type295318465#106#146#0(6@62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m292647671#374#0#374#0#56"passing argument * of '*' from incompatible pointer type0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m8632228256#1913"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/TileView.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/TileView.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/TileView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318466.828175
+e295318467.162047
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m295318466#295318467#0(0"0(0#0#62"/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m8632860512#1913"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/WorldNpc.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/WorldNpc.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/WorldNpc.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318460.562016
+e295318464.740457
+r1
+xCompileC
+xbuild/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m295318460#295318464#0(0"0(0#0#58"/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m8628214688#1905"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/main.m" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib"
+s295318414.667996
+e295318415.754505
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib:594: note: This view is clipping its content.
+o/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib:1048: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib295318414#295318415#0(291"/* com.apple.ibtool.document.notices *//Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib:594: note: This view is clipping its content./Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib:1048: note: This view is clipping its content.0(0#0#78"/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib8637604384#423"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/English.lproj/MainMenu.xib"
+r0
+
+CCopyStringsFile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s295318414.666822
+e295318415.060554
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings295318414#295318415#0(0"0(0#0#83"/Users/matthew/Desktop/Avisaria:iPhone World Editor/English.lproj/InfoPlist.strings8316308209256461312#409"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCpResource "build/Release/Avisaria Map Editor.app/Contents/Resources/World Data.gan" "build/Release/World Data.gan"
+r0
+
+CCpResource "build/Release/Avisaria Map Editor.app/Contents/Resources/stickman.png" stickman.png
+s292007995.359062
+e292007995.437228
+r0
+xCpResource
+xbuild/Release/Avisaria Map Editor.app/Contents/Resources/stickman.png
+xstickman.png
+opbxcp: stickman.png: No such file or directory
+lSLF07#2@17"Copy stickman.png292007995#292007995#0(47"pbxcp: stickman.png: No such file or directory1(4@46"pbxcp: stickman.png: No such file or directory292007995#18446744073709551615#0#0(6@0"292007995#0#0#0#0#0"0(0#0#64"/Users/matthew/Desktop/Avisaria:iPhone World Editor/stickman.png4300882208#408"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/Avisaria:iPhone World Editor/stickman.png" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Resources"1#
+
+CCreateUniversalBinary "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor" normal "x86_64 i386 ppc"
+s295318679.693407
+e295318679.699221
+r1
+xCreateUniversalBinary
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@121"CreateUniversalBinary "build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor" normal "x86_64 i386 ppc"295318679#295318679#0(0"0(0#0#67"/Users/matthew/Desktop/Avisaria:iPhone World Editor/x86_64 i386 ppc8642601024#709"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    /usr/bin/lipo -create "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor" -output "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor"0#
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor" normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM" "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor"
+s295318679.699357
+e295318679.902591
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor
+lSLF07#2@136"GenerateDSYMFile "build/Release/Avisaria Map Editor.app.dSYM" "build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor"295318679#295318679#0(0"0(0#0#124"/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor8629744640#320"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor" -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/MacOS/Avisaria Map Editor"
+r0
+
+CLd "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor" normal i386
+s295318679.225328
+e295318679.390432
+r1
+xLd
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor
+xnormal
+xi386
+lSLF07#2@164"Link /Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor295318679#295318679#0(0"0(0#0#0"8641999168#736"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" -filelist "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Quartz -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor"0#
+
+CLd "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor" normal ppc
+s295318679.636511
+e295318679.693260
+r1
+xLd
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor
+xnormal
+xppc
+lSLF07#2@163"Link /Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor295318679#295318679#0(0"0(0#0#0"8641679616#733"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" -filelist "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Quartz -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor"0#
+
+CLd "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor" normal x86_64
+s295318679.199783
+e295318679.360077
+r1
+xLd
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor
+xnormal
+xx86_64
+lSLF07#2@166"Link /Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor295318679#295318679#0(0"0(0#0#0"8641549952#742"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" -filelist "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Quartz -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/i386/Avisaria Map Editor" normal i386
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/ppc/Avisaria Map Editor" normal ppc
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Objects-normal/x86_64/Avisaria Map Editor" normal x86_64
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist" Avisaria_Map_Editor-Info.plist
+s295318414.633726
+e295318414.666677
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist
+xAvisaria_Map_Editor-Info.plist
+lSLF07#2@38"Process Avisaria_Map_Editor-Info.plist295318414#295318414#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor-Info.plist8634966592#395"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    builtin-infoPlistUtility Avisaria_Map_Editor-Info.plist -genpkginfo "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app/Contents/Info.plist" Avisaria_Map_Editor-Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-ejvabsxxldpxaxfoikrqpvtxoyar/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fninlgjqyivescgcevccaopalojb/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-gvtbybvfdlsgcdgyzlxmgsckncum/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-atjzhmgxqjmpfiedglrmugzqjdho/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s293914219.937986
+e293914223.963192
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-atjzhmgxqjmpfiedglrmugzqjdho/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch293914219#293914223#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch4300739032#1784"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-atjzhmgxqjmpfiedglrmugzqjdho/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s295318415.754657
+e295318455.408290
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch295318415#295318455#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch8631375872#1780"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-awuyazftqsubtzdmprzvymyhdirw/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-cmiyfmehkkvhdjfgxtyeyogfsyob/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-cpidulgpykqybufqzdrezghqdwhx/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dbihevbgtfthztgjfjlecroxowna/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293914212.815571
+e293914220.422618
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dbihevbgtfthztgjfjlecroxowna/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch293914212#293914220#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch4300739032#1776"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dbihevbgtfthztgjfjlecroxowna/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dgiqqgacirsxxxerwaqnobcyzrff/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s290811626.875745
+e290811632.219277
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dgiqqgacirsxxxerwaqnobcyzrff/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch290811626#290811632#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch4300882208#1780"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-dgiqqgacirsxxxerwaqnobcyzrff/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fbixylusfavwupcrrtegiljqmyua/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fmtwfqwlpymoneefioskljybvney/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290811626.876972
+e290811632.422347
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fmtwfqwlpymoneefioskljybvney/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch290811626#290811633#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch4300882208#1776"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fmtwfqwlpymoneefioskljybvney/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295318415.755936
+e295318456.292628
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch295318415#295318456#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch8634317856#1776"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-fzkflwdcfylsymeylqtkzzztjenn/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-gqpfdlryubzrizcbqttmgqtgcpzr/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s290811632.219552
+e290811636.144573
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-gqpfdlryubzrizcbqttmgqtgcpzr/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch290811632#290811636#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch4300882208#1771"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-gqpfdlryubzrizcbqttmgqtgcpzr/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hhbakwdqpmdxjnanxakgbmzaboiy/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293914212.814261
+e293914219.937759
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hhbakwdqpmdxjnanxakgbmzaboiy/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch293914212#293914219#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch4300739032#1780"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hhbakwdqpmdxjnanxakgbmzaboiy/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch.gch Avisaria_Map_Editor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s295318455.408520
+e295318460.561706
+r1
+xProcessPCH
+x/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch.gch
+xAvisaria_Map_Editor_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Avisaria_Map_Editor_Prefix.pch295318455#295318460#0(0"0(0#0#82"/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch8625005376#1784"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-generated-files.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/Avisaria Map Editor-project-headers.hmap" "-F/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/include" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources/ppc" "-I/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Avisaria World Editor.build/Release/Avisaria Map Editor.build/DerivedSources" -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/Avisaria_Map_Editor_Prefix.pch" -o /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Avisaria_Map_Editor_Prefix-hjelyjesyiigyhddeeinwnuakerf/Avisaria_Map_Editor_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app"
+s295318679.903592
+e295318679.907707
+r1
+xTouch
+x/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app
+lSLF07#2@95"Touch /Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app295318679#295318679#0(0"0(0#0#0"8642434624#175"    cd "/Users/matthew/Desktop/Avisaria:iPhone World Editor"    /usr/bin/touch -c "/Users/matthew/Desktop/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app"0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Avisaria:iPhone World Editor/build/Release/Avisaria Map Editor.app"
+r0
+

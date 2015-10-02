@@ -1,0 +1,209 @@
+TBasic Drawing
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004A8B68040000000000000110
+t1250650116
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib
+c000000004AD256B800000000000051B4
+t1255298744
+s20916
+
+N/Users/matthew/Desktop/Basic Drawing/Basic_Drawing_Prefix.pch
+c000000004AD22A4E00000000000000C3
+t1255287374
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.h
+c000000004AD22A4E00000000000001FF
+t1255287374
+s511
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m
+c000000004AD22A4E0000000000000284
+t1255287374
+s644
+i"Basic_DrawingAppDelegate.h"
+i"Basic_DrawingViewController.h"
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.h
+c000000004AD22A4E00000000000000FC
+t1255287374
+s252
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m
+c000000004AD2548800000000000005CB
+t1255298184
+s1483
+i"Basic_DrawingViewController.h"
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/MyCustomView.h
+c000000004AD255E8000000000000014E
+t1255298536
+s334
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/Basic Drawing/Classes/MyCustomView.m
+c000000004AD255E80000000000000BEE
+t1255298536
+s3054
+i"MyCustomView.h"
+
+N/Users/matthew/Desktop/Basic Drawing/MainWindow.xib
+c000000004AD22A4E0000000000002490
+t1255287374
+s9360
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/Basic Drawing.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/Basic_DrawingAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/Basic_DrawingViewController.o
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/MyCustomView.o
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app.dSYM
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Basic Drawing
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Basic Drawing.app
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Basic_DrawingViewController.nib
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/MainWindow.nib
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/ResourceRules.plist
+t2
+s0
+
+N/Users/matthew/Desktop/Basic Drawing/main.m
+c000000004AD22A4E000000000000016B
+t1255287374
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-ejdoacgwraufdfeyovyvxmljauhh/Basic_Drawing_Prefix.pch.gch
+t2
+s0
+
+NBasic_Drawing-Info.plist
+c000000004AD22A4E000000000000038D
+t1255287374
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276992333#276992333#0(421"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychainFile /Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app depends on itself.  This target might include its own product.File /Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app depends on itself.  This target might include its own product.3(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain276992333#18446744073709551615#0#0(1@0"0(4@143"File /Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app depends on itself.  This target might include its own product.276992333#18446744073709551615#0#0(1@0"0(4@143"File /Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app depends on itself.  This target might include its own product.276992333#18446744073709551615#0#0(1@0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/Basic_DrawingAppDelegate.o" "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/Basic_DrawingViewController.o" "/Users/matthew/Desktop/Basic Drawing/Classes/Basic_DrawingViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/MyCustomView.o" "/Users/matthew/Desktop/Basic Drawing/Classes/MyCustomView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Basic Drawing.build/Debug-iphoneos/Basic Drawing.build/Objects-normal/armv6/main.o" "/Users/matthew/Desktop/Basic Drawing/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/matthew/Desktop/Basic Drawing/Basic_DrawingViewController.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/Basic Drawing/MainWindow.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/Basic Drawing.app/Basic Drawing.app" "build/Debug-iphoneos/Basic Drawing.app"
+r0
+
+CCpResource "build/Debug-iphoneos/Basic Drawing.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app.dSYM" "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Basic Drawing"
+r0
+
+CLd "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Basic Drawing" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app/Info.plist" Basic_Drawing-Info.plist
+r0
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/Basic_Drawing_Prefix-ejdoacgwraufdfeyovyvxmljauhh/Basic_Drawing_Prefix.pch.gch Basic_Drawing_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/matthew/Desktop/Basic Drawing/build/Debug-iphoneos/Basic Drawing.app"
+r0
+

@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* Avisaria_Map_EditorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 514}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Avisaria_Map_EditorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 514}}";
+			sepNavSelRange = "{403, 0}";
+			sepNavVisRange = "{0, 410}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 50911530114C0C2900C94668 /* Avisaria Map Editor */;
+		activeTarget = 8D1107260486CEB800E47090 /* Avisaria Map Editor */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Avisaria Map Editor */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 50911542114C0C4900C94668 /* Code sense */;
+		executables = (
+			50911530114C0C2900C94668 /* Avisaria Map Editor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290708720;
+			PBXWorkspaceStateSaveDate = 290708720;
+		};
+		perUserProjectItems = {
+			50214E25114FD0BE004BEB27 /* PBXTextBookmark */ = 50214E25114FD0BE004BEB27 /* PBXTextBookmark */;
+			50414D7F1153DD0D00534025 /* PBXTextBookmark */ = 50414D7F1153DD0D00534025 /* PBXTextBookmark */;
+			50A0E14A1152D8E400A823F4 /* PBXTextBookmark */ = 50A0E14A1152D8E400A823F4 /* PBXTextBookmark */;
+			50A0E23D1153102000A823F4 /* PBXBookmark */ = 50A0E23D1153102000A823F4 /* PBXBookmark */;
+			50A0E23E1153102000A823F4 /* PBXTextBookmark */ = 50A0E23E1153102000A823F4 /* PBXTextBookmark */;
+			50A0E23F1153102000A823F4 /* PBXTextBookmark */ = 50A0E23F1153102000A823F4 /* PBXTextBookmark */;
+			50A0E2401153102000A823F4 /* PBXTextBookmark */ = 50A0E2401153102000A823F4 /* PBXTextBookmark */;
+			50A0E2411153102000A823F4 /* PBXTextBookmark */ = 50A0E2411153102000A823F4 /* PBXTextBookmark */;
+			50A0E2421153102000A823F4 /* PBXTextBookmark */ = 50A0E2421153102000A823F4 /* PBXTextBookmark */;
+			50A0E2431153102000A823F4 /* PBXTextBookmark */ = 50A0E2431153102000A823F4 /* PBXTextBookmark */;
+			50A0E2441153102000A823F4 /* PBXTextBookmark */ = 50A0E2441153102000A823F4 /* PBXTextBookmark */;
+			50EF2BE71153DBDE00F33F05 /* PBXTextBookmark */ = 50EF2BE71153DBDE00F33F05 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 50911541114C0C4900C94668 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 195}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{38, 221}";
+		};
+	};
+	3421F20011493A58002EA6BA /* TileView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1545, 988}}";
+			sepNavSelRange = "{1137, 0}";
+			sepNavVisRange = "{527, 1303}";
+		};
+	};
+	3421F20111493A58002EA6BA /* TileView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{778, 117}\";\n            s = 0;\n        },\n                {\n            r = \"{920, 424}\";\n            s = 0;\n        },\n                {\n            r = \"{1735, 191}\";\n            s = 0;\n        },\n                {\n            r = \"{1971, 235}\";\n            s = 0;\n        },\n                {\n            r = \"{2246, 358}\";\n            s = 0;\n        },\n                {\n            r = \"{2645, 391}\";\n            s = 0;\n        },\n                {\n            r = \"{3073, 352}\";\n            s = 0;\n        },\n                {\n            r = \"{3446, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{3496, 14}\";\n            s = 0;\n        },\n                {\n            r = \"{3548, 687}\";\n            s = 0;\n        },\n                {\n            r = \"{4304, 554}\";\n            s = 0;\n        },\n                {\n            r = \"{4926, 302}\";\n            s = 0;\n        },\n                {\n            r = \"{5370, 673}\";\n            s = 0;\n        },\n                {\n            r = \"{6232, 740}\";\n            s = 0;\n        },\n                {\n            r = \"{7187, 918}\";\n            s = 0;\n        },\n                {\n            r = \"{8307, 1002}\";\n            s = 0;\n        },\n                {\n            r = \"{9531, 973}\";\n            s = 0;\n        },\n                {\n            r = \"{10558, 368}\";\n            s = 0;\n        },\n                {\n            r = \"{11000, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{11396, 353}\";\n            s = 0;\n        },\n                {\n            r = \"{11823, 734}\";\n            s = 0;\n        },\n                {\n            r = \"{12601, 443}\";\n            s = 0;\n        },\n                {\n            r = \"{13066, 205}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13279}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1578, 1131}}";
+			sepNavSelRange = "{1422, 0}";
+			sepNavVisRange = "{1199, 1674}";
+		};
+	};
+	345C292C1149D88E00BA465F /* MapData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 514}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{0, 455}";
+		};
+	};
+	345C292D1149D88E00BA465F /* MapData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 572}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 1194}";
+		};
+	};
+	345C292E1149D88E00BA465F /* TileData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 514}}";
+			sepNavSelRange = "{633, 0}";
+			sepNavVisRange = "{0, 675}";
+		};
+	};
+	345C292F1149D88E00BA465F /* TileData.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2180, 465}\";\n            s = 0;\n        },\n                {\n            r = \"{2699, 504}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3211}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 663}}";
+			sepNavSelRange = "{2238, 0}";
+			sepNavVisRange = "{246, 1998}";
+		};
+	};
+	34BFD7FE114871700086B7C3 /* GameView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1545, 1196}}";
+			sepNavSelRange = "{1568, 0}";
+			sepNavVisRange = "{1186, 1815}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	34BFD7FF114871700086B7C3 /* GameView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{554, 117}\";\n            s = 0;\n        },\n                {\n            r = \"{3187, 1177}\";\n            s = 0;\n        },\n                {\n            r = \"{13152, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{13538, 352}\";\n            s = 0;\n        },\n                {\n            r = \"{25456, 913}\";\n            s = 0;\n        },\n                {\n            r = \"{26395, 469}\";\n            s = 0;\n        },\n                {\n            r = \"{26891, 373}\";\n            s = 0;\n        },\n                {\n            r = \"{28614, 270}\";\n            s = 0;\n        },\n                {\n            r = \"{28928, 23}\";\n            s = 0;\n        },\n                {\n            r = \"{29187, 220}\";\n            s = 0;\n        },\n                {\n            r = \"{29442, 585}\";\n            s = 0;\n        },\n                {\n            r = \"{30064, 573}\";\n            s = 0;\n        },\n                {\n            r = \"{30674, 576}\";\n            s = 0;\n        },\n                {\n            r = \"{31288, 584}\";\n            s = 0;\n        },\n                {\n            r = \"{31907, 906}\";\n            s = 0;\n        },\n                {\n            r = \"{32855, 192}\";\n            s = 0;\n        },\n                {\n            r = \"{33103, 25}\";\n            s = 0;\n        },\n                {\n            r = \"{33230, 184}\";\n            s = 0;\n        },\n                {\n            r = \"{33482, 554}\";\n            s = 0;\n        },\n                {\n            r = \"{34104, 302}\";\n            s = 0;\n        },\n                {\n            r = \"{34548, 673}\";\n            s = 0;\n        },\n                {\n            r = \"{35410, 740}\";\n            s = 0;\n        },\n                {\n            r = \"{36365, 918}\";\n            s = 0;\n        },\n                {\n            r = \"{37485, 1002}\";\n            s = 0;\n        },\n                {\n            r = \"{38709, 973}\";\n            s = 0;\n        },\n                {\n            r = \"{40678, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{40728, 14}\";\n            s = 0;\n        },\n                {\n            r = \"{40816, 734}\";\n            s = 0;\n        },\n                {\n            r = \"{41594, 443}\";\n            s = 0;\n        },\n                {\n            r = \"{42058, 881}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 42947}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 10127}}";
+			sepNavSelRange = "{3502, 0}";
+			sepNavVisRange = "{2937, 1101}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	50214E25114FD0BE004BEB27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3421F20111493A58002EA6BA /* TileView.m */;
+		name = "TileView.m: 136";
+		rLen = 0;
+		rLoc = 3512;
+		rType = 0;
+		vrLen = 11120;
+		vrLoc = 1928;
+	};
+	50414D7F1153DD0D00534025 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34BFD7FF114871700086B7C3 /* GameView.m */;
+		name = "GameView.m: 151";
+		rLen = 0;
+		rLoc = 4794;
+		rType = 0;
+		vrLen = 2277;
+		vrLoc = 3053;
+	};
+	50911530114C0C2900C94668 /* Avisaria Map Editor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Avisaria Map Editor";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eflags = 1;
+			$es = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$r10 = 1;
+			$r11 = 1;
+			$r12 = 1;
+			$r13 = 1;
+			$r14 = 1;
+			$r15 = 1;
+			$r8 = 1;
+			$r9 = 1;
+			$rax = 1;
+			$rbp = 1;
+			$rbx = 1;
+			$rcx = 1;
+			$rdi = 1;
+			$rdx = 1;
+			$rip = 1;
+			$rsi = 1;
+			$rsp = 1;
+			$ss = 1;
+		};
+	};
+	50911541114C0C4900C94668 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	50911542114C0C4900C94668 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	50A0E14A1152D8E400A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3421F20011493A58002EA6BA /* TileView.h */;
+		name = "TileView.h: 47";
+		rLen = 0;
+		rLoc = 1137;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 527;
+	};
+	50A0E23D1153102000A823F4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5026DA21114D523F00330D56 /* stickman.png */;
+	};
+	50A0E23E1153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 345C292C1149D88E00BA465F /* MapData.h */;
+		name = "MapData.h: 16";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 0;
+	};
+	50A0E23F1153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 345C292D1149D88E00BA465F /* MapData.m */;
+		name = "MapData.m: 18";
+		rLen = 0;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 0;
+	};
+	50A0E2401153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 345C292E1149D88E00BA465F /* TileData.h */;
+		name = "TileData.h: 26";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 0;
+	};
+	50A0E2411153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 345C292F1149D88E00BA465F /* TileData.m */;
+		name = "TileData.m: 115";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 2965;
+		vrLoc = 246;
+	};
+	50A0E2421153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* Avisaria_Map_EditorAppDelegate.h */;
+		name = "Avisaria_Map_EditorAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	50A0E2431153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Avisaria_Map_EditorAppDelegate.m */;
+		name = "Avisaria_Map_EditorAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 0;
+	};
+	50A0E2441153102000A823F4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34BFD7FE114871700086B7C3 /* GameView.h */;
+		name = "GameView.h: 70";
+		rLen = 0;
+		rLoc = 1568;
+		rType = 0;
+		vrLen = 1815;
+		vrLoc = 1186;
+	};
+	50EF2BE71153DBDE00F33F05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34BFD7FF114871700086B7C3 /* GameView.m */;
+		name = "GameView.m: 151";
+		rLen = 0;
+		rLoc = 4794;
+		rType = 0;
+		vrLen = 2277;
+		vrLoc = 3053;
+	};
+	8D1107260486CEB800E47090 /* Avisaria Map Editor */ = {
+		activeExec = 0;
+		executables = (
+			50911530114C0C2900C94668 /* Avisaria Map Editor */,
+		);
+	};
+}

@@ -1,0 +1,12 @@
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:5: error: no declaration of property 'spellType' found in the interface
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m: In function '-[SpellEffect init]':
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:14: error: 'spellType' undeclared (first use in this function)
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:14: error: (Each undeclared identifier is reported only once
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:14: error: for each function it appears in.)
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m: In function '-[SpellEffect encodeWithCoder:]':
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:36: error: 'spellType' undeclared (first use in this function)
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m: In function '-[SpellEffect initWithCoder:]':
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:52: error: 'spellType' undeclared (first use in this function)
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m: At top level:
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:62: warning: property 'type' requires method '-type' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/Stuff Hidden While Tutorial Recording/My iPhone Successes/Simple RPG/Classes/SpellEffect.m:62: warning: property 'type' requires the method 'setType:' to be defined - use @synthesize, @dynamic or provide a method implementation
